@@ -1,0 +1,359 @@
+﻿DATE,REF,DETAILS,FILE NO,CLIENT NAMES,DEBIT,CREDIT,BALANCE
+27-May-16,,Payment,2017,JM Modiba,,R500 000.00,-500 000.00
+24-Aug-16,,Loan repayment,2017,JM Modiba,R3 500 000.00,,3 000 000.00
+23-Sep-16,,Payment,2017,JM Modiba,,R500 000.00,2 500 000.00
+30-Sep-16,,Payment,2017,JM Modiba,,R100 000.00,2 400 000.00
+14-Nov-16,,Payment,2017,JM Modiba,,R460 000.00,1 940 000.00
+16-Nov-16,,Payment,2017,JM Modiba,,R200 000.00,1 740 000.00
+18-Nov-16,,Payment,2017,JM Modiba,,R100 000.00,1 640 000.00
+22-Nov-16,,Payment,2017,JM Modiba,,R100 000.00,1 540 000.00
+24-Nov-16,,Payment,2017,JM Modiba,,R100 000.00,1 440 000.00
+28-Nov-16,,Payment,2017,JM Modiba,,R300 000.00,1 140 000.00
+14-Dec-16,,Payment,2017,JM Modiba,,R150 000.00,990 000.00
+28-Dec-16,,Payment,2017,JM Modiba,,R50 000.00,940 000.00
+06-Jan-17,,Payment,2017,JM Modiba,,R50 000.00,890 000.00
+30-Jan-17,,Payment,2017,JM Modiba,,R200 000.00,690 000.00
+01-Feb-17,,Payment,2017,JM Modiba,,R300 000.00,390 000.00
+03-Feb-17,,Payment,2017,JM Modiba,,R100 000.00,290 000.00
+07-Feb-17,,Payment,2017,JM Modiba,,R300 000.00,-10 000.00
+08-Feb-17,,Payment,2017,JM Modiba,,R100 000.00,-110 000.00
+25-Aug-16,,,2017,JM Modiba,,R116 400.00,-226 400.00
+28-Feb-17,,Deposit,2017,JM Modiba,R1 000 000.00,,773 600.00
+30-Sep-16,,Payment,2017,JM Modiba,,R100 000.00,673 600.00
+30-Sep-16,,Payment,2017,JM Modiba,,R100 000.00,573 600.00
+31-Oct-16,,Payment,2017,JM Modiba,,R1 590 270.00,-1 016 670.00
+31-Oct-16,,Incorrect tranfer,2017,JM Modiba,R1 590 270.00,,573 600.00
+02-Sep-16,,Payment,2222,Gabriel Arone Mugabe,,R1 725 000.00,-1 151 400.00
+02-Nov-16,,Payment,2222,Multiple Payments,,R5 000 000.00,-6 151 400.00
+31-Mar-16,,Payment,2222,JM Modiba,,R3 540 556.99,-9 691 956.99
+08-Mar-16,,Bank charges,LSoNR,Law Society,,R1 510.00,-9 693 466.99
+31-Mar-16,,Credit interest,LSoNR,Law Society,R49 223.77,,-9 644 243.22
+01-Apr-16,,Interest transfer,LSoNR,Law Society,,R49 223.77,-9 693 466.99
+04-Apr-16,,Bank charges,LSoNR,Law Society,,R1 510.00,-9 694 976.99
+30-Apr-16,,CREDIT INTEREST,LSoNR,Law Society,R31 932.44,,-9 663 044.55
+03-May-16,,Payment,LSoNR,LAW SOCIETY,,R31 932.44,-9 694 976.99
+31-May-16,,CREDIT INTEREST,LSoNR,Law Society,R45 766.84,,-9 649 210.15
+01-Jun-16,,Payment,LSoNR,Law society,,R45 766.84,-9 694 976.99
+08-Jun-16,,Bank charges,LSoNR,Law Society,,R1 510.00,-9 696 486.99
+24-Jun-16,,Bank charges,LSoNR,Law Society,,R285.00,-9 696 771.99
+30-Jun-16,,CREDIT INTEREST,LSoNR,Law Society,R57 754.31,,-9 639 017.68
+01-Jul-16,,Payment,LSoNR,Law society,,R57 754.31,-9 696 771.99
+06-Jul-16,,Bank charges,LSoNR,Law Society,,R1 510.00,-9 698 281.99
+08-Jul-16,,Bank charges,LSoNR,law society,,R1 242.00,-9 699 523.99
+30-Jul-16,,CREDIT INTEREST,LSoNR,Law Society,R56 902.85,,-9 642 621.14
+01-Aug-16,,Payment,LSoNR,Law society,,R56 902.85,-9 699 523.99
+08-Aug-16,,Bank charges,LSoNR,LAW SOCIETY,,R378.57,-9 699 902.56
+08-Aug-16,,Bank charges,LSoNR,Law society,,R285.00,-9 700 187.56
+15-Aug-16,,Bank charges,LSoNR,Law Society,,R1 510.00,-9 701 697.56
+15-Aug-16,,Bank charges,LSoNR,Law Society,,R285.00,-9 701 982.56
+31-Aug-16,,Credit interest,LSoNR,Law Society,R66 644.48,,-9 635 338.08
+02-Sep-16,,Bank Charges,LSoNR,Law Society,,R1 510.00,-9 636 848.08
+14-Sep-16,,Bank Charges,LSoNR,Law Society,,R618.66,-9 637 466.74
+30-Sep-16,,Bank Charges,LSoNR,Law Society,,R1 510.00,-9 638 976.74
+30-Sep-16,,Bank Charges,LSoNR,Law Society,,R1 510.00,-9 640 486.74
+30-Sep-16,,Bank Charges,LSoNR,Law Society,,R1 510.00,-9 641 996.74
+30-Sep-16,,Credit Interest,LSoNR,Law Society,R54 349.94,,-9 587 646.80
+01-Oct-16,,Law Society,LSoNR,Law Society,,R54 349.94,-9 641 996.74
+24-Oct-16,,Bank charges,LSoNR,Law Society,,R378.57,-9 642 375.31
+24-Oct-16,,Bank charges,LSoNR,Law Society,,R1 510.00,-9 643 885.31
+31-Oct-16,,Bank charges,LSoNR,Law Society,,R1 510.00,-9 645 395.31
+31-Oct-16,,Credit interest,LSoNR,Law Society,R31 648.64,,-9 613 746.67
+01-Nov-16,,Bank charges,LSoNR,Law society,,R31 648.64,-9 645 395.31
+01-Nov-16,,Bank charges,LSoNR,Law Society,,R378.57,-9 645 773.88
+02-Nov-16,,Bank charges,LSoNR,Law Society,,R1 510.00,-9 647 283.88
+03-Nov-16,,Bank charges,LSoNR,Law Society,,R1 510.00,-9 648 793.88
+30-Nov-16,,Credit interest,LSoNR,Law Society,R11 399.69,,-9 637 394.19
+01-Dec-16,,Bank charges,LSoNR,Law Society,,R11 399.69,-9 648 793.88
+31-Dec-16,,Credit interest,LSoNR,Law Society,R5 318.38,,-9 643 475.50
+03-Jan-17,,Bank charges,LSoNR,Law society,,R5 318.38,-9 648 793.88
+31-Jan-17,,Credit interest,LSoNR,Law Society,R12 783.20,,-9 636 010.68
+01-Feb-17,,Bank charges,LSoNR,Law society,,R12 783.20,-9 648 793.88
+28-Feb-17,,Credit Interest,LSoNR,Law society,R19 252.99,,-9 629 540.89
+10-Oct-16,,Payment,TPC,Mmoyane Machobane,,R103 612.50,-9 733 153.39
+15-Aug-16,,Payment,TPC111,Rosina Raisibe Ledwaba,,R959 880.00,-10 693 033.39
+24-Aug-16,,Fees,TPC111,RR Ledwaba,,R319 960.00,-11 012 993.39
+20-Sep-16,,Fees,TPC116 ,M Chauke,,R125 000.00,-11 137 993.39
+22-Mar-16,,Payment,TPC1168,MCMatshiane,R49 000.00,,-11 088 993.39
+08-Aug-16,,Payment,TPC1168,Mpumi Matshiane,,R49 000.00,-11 137 993.39
+05-Jan-17,,Deposit,TPC127,G Manell,R267 114.38,,-10 870 879.01
+01-Sep-16,,Payment,TPC130,VP Rabilwana,R1 601 712.33,,-9 269 166.68
+08-Sep-16,,Fees,TPC130,VP Rabilwana,,R400 428.33,-9 669 595.01
+07-Sep-16,,Payment,TPC130,Vuledzani Rabilwana,,R1 201 284.00,-10 870 879.01
+01-Dec-16,,Payment,TPC166,Maphios Vaisa,,R375 000.00,-11 245 879.01
+17-Aug-16,,Payment,TPC19 ,Vincent Mabogoanne,,R3 703 576.20,-14 949 455.21
+23-Mar-16,,Payment,TPC198,Ito S Ruca,,R2 320 540.00,-17 269 995.21
+25-Aug-16,,Interest on Investment,TPC198,S Ruca,R10 071.51,,-17 259 923.70
+25-Aug-16,,Investment,TPC198,S Ruca,R2 374 743.31,,-14 885 180.39
+25-Aug-16,,Payment,TPC198,S Ruca,,R2 384 814.82,-17 269 995.21
+05-Jan-17,,Deposit,TPC199,S Mahlangu,R110 455.28,,-17 159 539.93
+08-Aug-16,,Payment,TPC201,Anathi & Amhle,,R164 594.00,-17 324 133.93
+24-Oct-16,,Payment,TPC201,Anathi & Amhle,,R164 594.00,-17 488 727.93
+01-Nov-16,,Payment,TPC201,Anathi & Amhle,,R164 594.00,-17 653 321.93
+01-Sep-16,,Deposit,TPC201,Anathi & Amhle,,R66 644.48,-17 719 966.41
+25-Oct-16,,Payment,TPC201,Anathi& Ama,R164 594.00,,-17 555 372.41
+29-Aug-16,,Deposit,TPC201,Anathi& Ama,R164 594.00,,-17 390 778.41
+11-Oct-16,,Payment,TPC205,Senamela SP,R2 529 179.32,,-14 861 599.09
+11-Oct-16,,Payment,TPC205,Senamela SP,,R1 661 762.28,-16 523 361.37
+28-Oct-16,,Fees,TPC205,SP Senamela,,R700 314.25,-17 223 675.62
+28-Oct-16,,Payment,TPC205,SP Senamela,,R131 642.92,-17 355 318.54
+24-Feb-17,,Payment,TPC206,Jacob N Sibanyoni,,R2 075 722.50,-19 431 041.04
+23-Feb-17,,Payment,TPC206,Joseph Sibanyoni,,R375 000.00,-19 806 041.04
+30-Sep-16,,Payment,TPC211,Siyabonga Agne Mashiyane,,R3 313 680.75,-23 119 721.79
+02-Apr-16,,Fee,TPC212,Dysmathonsi,,R701 025.55,-23 820 747.34
+01-Apr-16,,Payment,TPC212,Yandheya Mathonsi,,R2 103 075.00,-25 923 822.34
+07-Jun-16,,Payment,TPC220,C Seano,R1 200 867.35,,-24 722 954.99
+29-Jun-16,,Payment,TPC220,Catherine Sean,,R900 650.25,-25 623 605.24
+04-Jul-16,,Fee,TPC220,Catherine seano,,R300 217.10,-25 923 822.34
+05-Oct-16,,Fees,TPC222,Domingos Bento,,R1 086 268.75,-27 010 091.09
+06-Oct-16,,Payment,TPC222,Domingos Bento,,R3 258 806.25,-30 268 897.34
+05-Aug-16,,Payment,TPC222,DS Bento,,R406 945.45,-30 675 842.79
+05-Dec-16,,Payment,TPC236,Kgomotso Rachel M,,R6 426 041.25,-37 101 884.04
+06-Dec-16,,Payment,TPC236,KR Mash Tloane,,R2 142 013.75,-39 243 897.79
+05-Jan-17,,Deposit,TPC238,BA Makuya,R2 127 896.75,,-37 116 001.04
+19-Jan-17,,Fees,TPC238,Bamakuya obo Moyo,,R531 974.75,-37 647 975.79
+04-Apr-16,,Payment,TPC249,Caroline Latane,,R3 741 780.00,-41 389 755.79
+00-Jan-00,,Fee,TPC249,CR Latane,,R1 247 260.00,-42 637 015.79
+09-Nov-16,,Payment,TPC254,Simon Segwati Masipa,,R2 231 362.50,-44 868 378.29
+07-Jun-16,,Fee,TPC256,Alhassan Yussif,,R451 241.00,-45 319 619.29
+08-Jun-16,,loan repayment,TPC256,Alhassan Yussif,,R30 000.00,-45 349 619.29
+08-Jun-16,,Payment,TPC256,Alhassan Yussif,,R1 323 723.00,-46 673 342.29
+11-Nov-16,,Payment,TPC256,PalekgethoThato A,,R833 587.50,-47 506 929.79
+12-Aug-16,,Fee,TPC257,R Boya,,R829 043.75,-48 335 973.54
+08-Aug-16,,Payment,TPC257,Raisebe  Boya,,R2 487 131.25,-50 823 104.79
+29-Jul-16,,Deposit,TPC257,RJ Boya,R3 316 175.00,,-47 506 929.79
+29-Aug-16,,Fees,TPC259,LN Cobela,,R1 100 722.25,-48 607 652.04
+14-Sep-16,,Payment,TPC259,Ncobela L,,R3 302 166.75,-51 909 818.79
+05-Jan-17,,Deposit,TPC261,J Malefo,R195 789.12,,-51 714 029.67
+17-Jan-17,,Payment,TPC262,Nhlengane Gubayi,,R686 463.75,-52 400 493.42
+05-Jan-17,,Deposit,TPC262,NS Gubayi,R915 285.00,,-51 485 208.42
+05-Jan-17,,Deposit,TPC266,T Nogabe,R124 727.57,,-51 360 480.85
+01-Sep-16,,Payment,TPC267,T Ndubane,,R43 369.80,-51 403 850.65
+06-Jun-16,,Fee,TPC271,Isaac Mokgopo,,R575 766.40,-51 979 617.05
+27-May-16,,Deposit,TPC271,IT Mokgopo,R2 303 065.60,,-49 676 551.45
+05-Jan-17,,Deposit,TPC273,S Dlephu,R378 278.74,,-49 298 272.71
+05-Sep-16,,Fees,TPC274,J Mugabe,,R575 000.00,-49 873 272.71
+23-Feb-17,,Payment,TPC290,Lindiwe Skhosana,,R786 871.35,-50 660 144.06
+01-Dec-16,,Payment,TPC299,KR Makola,,R120 264.98,-50 780 409.04
+05-Jan-17,,Deposit,TPC307,TJ Msiza,R4 805 277.88,,-45 975 131.16
+17-Jan-17,,Payment,TPC307,Tshepo Msiza,,R3 603 958.41,-49 579 089.57
+03-Mar-16,,Fee,TPC309,MP Tlou,,R424 312.20,-50 003 401.77
+14-Mar-16,,Payment,TPC309,Tlou,,R1 272 936.60,-51 276 338.37
+20-Oct-16,,,TPC310,RL Mahlagaume,R2 846 400.00,,-48 429 938.37
+20-Sep-16,,,TPC312,Paul Mahlangu,,R76 465.00,-48 506 403.37
+14-Sep-16,,Fees,TPC314,HM MAILA,,R305 590.00,-48 811 993.37
+14-Sep-16,,Payment,TPC314,HM MAILA,,R916 770.00,-49 728 763.37
+12-Aug-16,,Fee,TPC318,A Gamanya,,R199 917.50,-49 928 680.87
+29-Jul-16,,Deposit,TPC318,A Gamanya,R799 670.00,,-49 129 010.87
+08-Aug-16,,Payment,TPC318,Angeline Gamanyya,,R599 752.50,-49 728 763.37
+05-Jan-17,,Deposit,TPC319,LB Mako,R265 634.80,,-49 463 128.57
+10-Oct-16,,Payment,TPC320,Methuseli Nnlovu,,R2 760 101.25,-52 223 229.82
+28-Oct-16,,Fees,TPC320,ND Lovu,,R920 033.75,-53 143 263.57
+09-Nov-16,,Payment,TPC320,RL Mahlagaume,,R2 134 800.00,-55 278 063.57
+01-Mar-16,,Fee,TPC321,DN Machavane,,R534 370.55,-55 812 434.12
+31-Oct-16,,Payment,TPC321,N Machavane,,R1 603 110.00,-57 415 544.12
+27-May-16,,Deposit,TPC322,HI Chiloane,R2 137 748.00,,-55 277 796.12
+17-Jun-16,,Fee,TPC322,Hichiloane,,R534 437.00,-55 812 233.12
+03-Nov-16,,Payment,TPC322,Hirris Ivin,,R1 603 311.00,-57 415 544.12
+29-Jul-16,,Fee,TPC326,Abheki Mkhwanazi,,R436 122.75,-57 851 666.87
+07-Jul-16,,Payment,TPC326,Bheki MKHWANAZI,,R1 308 368.25,-59 160 035.12
+12-Jul-16,,Payment,TPC327,Promise Vilankazi,,R740 430.00,-59 900 465.12
+24-Apr-16,,Deposit,TPC327 ,PJN VILAKAZI ,R1 987 240.00,,-57 913 225.12
+24-May-16,,Fee,TPC327  ,PJN Vilakazi,,R246 810.00,-58 160 035.12
+10-Aug-16,,Payment,TPC338,Matjjie Ntlatleng,,R161 970.00,-58 322 005.12
+12-Aug-16,,Fee,TPC338,OM Ntatleng,,R53 990.00,-58 375 995.12
+29-Jul-16,,Deposit,TPC338,OM Ntlatleng,R215 960.00,,-58 160 035.12
+30-Sep-16,,Payment,TPC341,Christina Neku Maduna,,R5 015 081.25,-63 175 116.37
+03-Nov-16,,Payment,TPC341,Christina Neku Maduna,,R15 081.25,-63 190 197.62
+28-Oct-16,,Deposit,TPC341,CN Maduna,R5 015 081.25,,-58 175 116.37
+22-Apr-16,,Deposit,TPC341,CN Maduna,R6 686 775.00,,-51 488 341.37
+26-Aug-16,,Fees,TPC341,LL Moela,,R444 987.06,-51 933 328.43
+27-May-16,,Deposit,TPC356,A Yussif,R1 804 964.00,,-50 128 364.43
+29-Jul-16,,Fee,TPC361,Ame Makhanya,,R76 237.72,-50 204 602.15
+28-Jun-16,,,TPC361,M.E Mekhaya,R304 950.85,,-49 899 651.30
+11-Aug-16,,Payment,TPC361,Mandla Makhanya,,R228 713.13,-50 128 364.43
+05-Jan-17,,Deposit,TPC361,ME Makhaya,R111 934.85,,-50 016 429.58
+01-Dec-16,,Payment,TPC367,M Sigudla,,R335 451.15,-50 351 880.73
+13-Jul-16,,Payment,TPC367,Sigudla M,R11 512.90,,-50 340 367.83
+06-Jun-16,,Payment,TPC371,Isaac Mokgopo,,R1 727 299.20,-52 067 667.03
+09-Jan-17,,Payment,TPC374,A Makgopa,R20 400.00,,-52 047 267.03
+27-May-16,,Deposit,TPC375,MM Maseko,R2 550 600.00,,-49 496 667.03
+17-Jun-16,,Fee,TPC375,MM Maseko,,R637 650.00,-50 134 317.03
+24-Oct-16,,Payment,TPC375,MM Maseko,,R1 912 950.00,-52 047 267.03
+24-Aug-16,,Fees,TPC383,S Nomlomo,,R440 245.00,-52 487 512.03
+16-Aug-16,,Payment,TPC383,Sinko Nomlomo,,R1 320 735.00,-53 808 247.03
+17-Jan-17,,Payment,TPC384,Nkululeko Kwababa,,R1 426 875.75,-55 235 122.78
+05-Dec-16,,Fees,TPC387,LS Masango,,R207 528.00,-55 442 650.78
+02-Dec-16,,Payment,TPC387,Lucas Sfiso Masango,,R622 584.00,-56 065 234.78
+02-Sep-16,,Fees,TPC392,L Manell,,R333 974.00,-56 399 208.78
+02-Sep-16,,Payment,TPC392,Manell Lowart,,R1 001 922.00,-57 401 130.78
+05-Oct-16,,Payment,TPC397,ST Mahlahgu,R14 400.00,,-57 386 730.78
+09-Mar-16,,Payment,TPC400,MC Nakene,,R4 825 245.00,-62 211 975.78
+11-Mar-16,,Fee,TPC400,MC Nakene,,R1 608 415.00,-63 820 390.78
+06-Jul-16,,Payment,TPC413,Sekela Semane,,R3 411 783.75,-67 232 174.53
+07-Jul-16,,Fee,TPC413,Sekela Semane,,R1 137 261.25,-68 369 435.78
+08-Jul-16,,Payment,TPC427,Babra Sibongil,,R540 000.00,-68 909 435.78
+29-Jul-16,,Fee,TPC427,Babra Zwane,,R180 000.00,-69 089 435.78
+28-Jun-16,,,TPC427,BS Zwane,R720 000.00,,-68 369 435.78
+05-Jan-17,,Deposit,TPC427,BS Zwane,R225 059.88,,-68 144 375.90
+07-Jul-16,,Payment,TPC430,Gadifele Jonas,,R310 821.75,-68 455 197.65
+29-Jul-16,,Fee,TPC430,GADIFELE Jonas,,R103 607.25,-68 558 804.90
+28-Jun-16,,,TPC430,GM Jonas,R414 429.00,,-68 144 375.90
+05-May-16,,Fee,TPC431,CN Maduna,,R1 671 693.75,-69 816 069.65
+24-Jun-16,,Payment,TPC431,Janet Maswanga,,R70 667.50,-69 886 737.15
+08-Mar-16,,Payment,TPC436,HK Chauke,,R1 778 940.00,-71 665 677.15
+14-Mar-16,,Fee,TPC436,Hk Chauke,,R592 980.00,-72 258 657.15
+24-Apr-16,,Deposit,TPC438, KHOZA,R1 000 000.00,,-71 258 657.15
+18-May-16,,Fee,TPC438,Zc Khoza,,R250 000.00,-71 508 657.15
+30-Sep-16,,Payment,TPC438,Zindaba Cather,,R750 000.00,-72 258 657.15
+08-Aug-16,,Payment,TPC449,Mamorowane Moraba,,R260 226.00,-72 518 883.15
+12-Aug-16,,Fee,TPC449,MM Moraba,,R86 742.50,-72 605 625.65
+29-Jul-16,,Deposit,TPC449,MM Moraba,R346 968.50,,-72 258 657.15
+28-Jun-16,,,TPC455,M.J Masolo,R1 169 980.00,,-71 088 677.15
+07-Jul-16,,Fee,TPC455,MJ Masolo,,R292 495.00,-71 381 172.15
+06-Jul-16,,Payment,TPC455,MU Masolo,,R877 485.00,-72 258 657.15
+08-Apr-16,,Fee,TPC470,Tso Khubeka,,R874 211.25,-73 132 868.40
+04-Apr-16,,Payment,TPC470,Tso Kubhe,,R2 622 633.75,-75 755 502.15
+01-Mar-16,,Fee,TPC479,VD Mabona,,R530 090.00,-76 285 592.15
+31-Oct-16,,Payment,TPC479,Vusi Dimede,,R1 590 270.00,-77 875 862.15
+28-Jun-16,,,TPC501,Mathabath,R358 642.80,,-77 517 219.35
+14-Sep-16,,Payment,TPC501,Mathabathe MOT,,R268 982.10,-77 786 201.45
+20-Sep-16,,Fees,TPC501,MOT Mathabathe,,R89 660.70,-77 875 862.15
+07-Mar-16,,Fee,TPC506,DR Mahlabe,,R439 358.50,-78 315 220.65
+08-Mar-16,,Payment,TPC506,Refiloe Mahlabe,,R1 318 075.50,-79 633 296.15
+08-Aug-16,,Payment,TPC523,Saraphina Tayi Sithole,,R80 148.75,-79 713 444.90
+12-Aug-16,,Fee,TPC523,ST Sithole,,R26 716.25,-79 740 161.15
+29-Jul-16,,Deposit,TPC523,ST Sithole,R106 865.00,,-79 633 296.15
+15-Aug-16,,Cost,TPC93,Malasela Mogale,,R48 641.75,-79 681 937.90
+27-Feb-17,,Deposit,2222,JM Modiba,R183 422.82,,-79 498 515.08
+27-Feb-17,,Deposit,2222,JM Modiba,R374 826.94,,-79 123 688.14
+27-Feb-17,,Deposit,2222,JM Modiba,R270 890.92,,-78 852 797.22
+30-Mar-16,,Deposit,2222,JM Modiba,R2 804 100.55,,-76 048 696.67
+27-Oct-16,,Deposit,2222,JM Modiba,R258 460.55,,-75 790 236.12
+07-Feb-17,,Deposit,2222,JM Modiba,R914 379.50,,-74 875 856.62
+27-Feb-17,,Deposit,2222,JM Modiba,R2 103 546.00,,-72 772 310.62
+12-Aug-16,Payment,,2222,JM Modiba,,R385 543.86,-73 157 854.48
+29-Jul-16,,Deposit,2222,JM Modiba,R385 543.86,,-72 772 310.62
+10-Jan-17,,Payment,2222,JM Modiba,,R225 059.88,-72 997 370.50
+27-Feb-17,,Deposit,2222,JM Modiba,R241 421.58,,-72 755 948.92
+28-Feb-17,,Fees,2222,JM Modiba,,R125 000.00,-72 880 948.92
+10-Jan-17,,Payment,2222,JM Modiba,,R378 278.74,-73 259 227.66
+29-Jul-16,,Deposit,2222,JM Modiba,R406 945.45,,-72 852 282.21
+30-Sep-16,,Deposit,2222,JM Modiba,R4 345 075.00,,-68 507 207.21
+27-Feb-17,,Deposit,2222,JM Modiba,R150 408.10,,-68 356 799.11
+30-Sep-16,,Deposit,2222,JM Modiba,R389 117.55,,-67 967 681.56
+04-Oct-16,,Payment,2222,JM Modiba,,R389 117.55,-68 356 799.11
+07-Feb-17,,Deposit,2222,JM Modiba,R273 379.56,,-68 083 419.55
+10-Feb-17,,Payment,2222,JM Modiba,,R273 379.56,-68 356 799.11
+30-Sep-16,,Deposit,2222,JM Modiba,R346 080.96,,-68 010 718.15
+04-Oct-16,,Payment,2222,JM Modiba,,R346 080.96,-68 356 799.11
+25-Aug-16,,Deposit,2222,JM Modiba,R1 222 360.00,,-67 134 439.11
+07-Feb-17,,Deposit,2222,JM Modiba,R263 128.63,,-66 871 310.48
+10-Feb-17,,Payment,2222,JM Modiba,,R263 128.63,-67 134 439.11
+07-Feb-17,,Deposit,2222,JM Modiba,R1 456 200.00,,-65 678 239.11
+28-Feb-17,,Investement Account,2222,JM Modiba,,R1 092 150.00,-66 770 389.11
+27-Feb-17,,Deposit,2222,JM Modiba,R295 542.15,,-66 474 846.96
+10-Jan-17,,Payment,2222,JM Modiba,,R195 789.12,-66 670 636.08
+25-Aug-16,,Deposit,2222,JM Modiba,R2 300 000.00,,-64 370 636.08
+27-Feb-17,,Deposit,2222,JM Modiba,R277 999.86,,-64 092 636.22
+27-Feb-17,,Deposit,2222,JM Modiba,R1 381 324.00,,-62 711 312.22
+07-Feb-17,,Deposit,2222,JM Modiba,R500 000.00,,-62 211 312.22
+07-Feb-17,,Deposit,2222,JM Modiba,R2 767 630.00,,-59 443 682.22
+17-Feb-28,,Fees,2222,JM Modiba,,R691 907.50,-60 135 589.72
+27-Oct-16,,Deposit,2222,JM Modiba,R1 902 501.10,,-58 233 088.62
+,,Deposit,2222,JM Modiba,R8 568 055.00,,-49 665 033.62
+29-Nov-16,,Deposit,2222,JM Modiba,R120 264.98,,-49 544 768.64
+25-Aug-16,,Deposit,2222,JM Modiba,R1 335 896.00,,-48 208 872.64
+27-Feb-17,,Deposit,2222,JM Modiba,R281 032.98,,-47 927 839.66
+30-Mar-16,,Deposit,2222,JM Modiba,R4 989 040.00,,-42 938 799.66
+28-Feb-17,,Fees,2222,JM Modiba,,R262 290.45,-43 201 090.11
+07-Feb-17,,Deposit,2222,JM Modiba,R1 049 161.80,,-42 151 928.31
+25-Aug-16,,Deposit,2222,JM Modiba,R444 987.06,,-41 706 941.25
+25-Aug-16,,Deposit,2222,JM Modiba,R4 402 889.00,,-37 304 052.25
+29-Nov-16,,Deposit,2222,JM Modiba,R830 112.00,,-36 473 940.25
+25-Aug-16,,Deposit,2222,JM Modiba,R500 000.00,,-35 973 940.25
+30-Sep-16,,Deposit,2222,JM Modiba,R3 680 135.00,,-32 293 805.25
+29-Nov-16,,Deposit,2222,JM Modiba,R335 451.15,,-31 958 354.10
+10-Jan-17,,Payment,2222,JM Modiba,,R457 580.00,-32 415 934.10
+10-Jan-17,,Payment,2222,JM Modiba,,R265 634.80,-32 681 568.90
+10-Jan-17,,Payment,2222,JM Modiba,,R267 114.38,-32 948 683.28
+10-Jan-17,,Payment,2222,JM Modiba,,R111 934.85,-33 060 618.13
+30-Sep-16,,Deposit,2222,JM Modiba,R138 150.00,,-32 922 468.13
+07-Feb-17,,Deposit,2222,JM Modiba,R282 497.84,,-32 639 970.29
+10-Feb-17,,Payment,2222,JM Modiba,,R282 497.84,-32 922 468.13
+28-Jun-16,,,2222,JM Modiba,R1 744 491.00,,-31 177 977.13
+12-Aug-16,Payment,,2222,JM Modiba,,R595 713.12,-31 773 690.25
+29-Jul-16,,Deposit,2222,JM Modiba,R595 713.12,,-31 177 977.13
+27-Feb-17,,Deposit,2222,JM Modiba,R202 020.70,,-30 975 956.43
+27-Feb-17,,Deposit,2222,JM Modiba,R220 964.72,,-30 754 991.71
+30-Mar-16,,Deposit,2222,JM Modiba,R3 496 845.00,,-27 258 146.71
+27-Feb-17,,Deposit,2222,JM Modiba,R310 409.31,,-26 947 737.40
+05-Jan-17,,Deposit,2222,JM Modiba,R457 580.00,,-26 490 157.40
+10-Jan-17,,Payment,2222,JM Modiba,,R124 727.57,-26 614 884.97
+12-Aug-16,Payment,,2222,JM Modiba,,R323 630.52,-26 938 515.49
+29-Jul-16,,Deposit,2222,JM Modiba,R323 630.52,,-26 614 884.97
+27-Feb-17,,Deposit,2222,JM Modiba,R1 222 080.00,,-25 392 804.97
+07-Feb-17,,Deposit,2222,JM Modiba,R276 148.17,,-25 116 656.80
+10-Feb-17,,Payment,2222,JM Modiba,,R276 148.17,-25 392 804.97
+27-Feb-17,,Deposit,2222,JM Modiba,R239 940.77,,-25 152 864.20
+30-Sep-16,,Deposit,2222,JM Modiba,R178 620.66,,-24 974 243.54
+04-Oct-16,,Payment,2222,JM Modiba,,R178 620.66,-25 152 864.20
+27-Feb-17,,Deposit,2222,JM Modiba,R329 307.91,,-24 823 556.29
+27-Feb-17,,Deposit,2222,JM Modiba,R900 000.00,,-23 923 556.29
+27-Feb-17,,Deposit,2222,JM Modiba,R314 257.92,,-23 609 298.37
+29-Jul-16,,Deposit,2222,JM Modiba,R1 279 840.00,,-22 329 458.37
+10-Jan-17,,Payment,2222,JM Modiba,,R110 455.28,-22 439 913.65
+12-Aug-16,Payment,,2222,JM Modiba,,R347 667.45,-22 787 581.10
+29-Jul-16,,Deposit,2222,JM Modiba,R347 667.45,,-22 439 913.65
+29-Jul-16,,Deposit,2222,JM Modiba,R1 760 980.00,,-20 678 933.65
+28-Jun-16,,,2222,JM Modiba,R4 549 045.00,,-16 129 888.65
+07-Feb-17,,Deposit,2222,JM Modiba,R374 954.82,,-15 754 933.83
+10-Feb-17,,Payment,2222,JM Modiba,,R374 954.82,-16 129 888.65
+07-Feb-17,,Deposit,2222,JM Modiba,R1 200 000.00,,-14 929 888.65
+27-Oct-16,,Deposit,2222,JM Modiba,R2 975 150.00,,-11 954 738.65
+27-Oct-16,,Deposit,2222,JM Modiba,R1 111 450.00,,-10 843 288.65
+28-Feb-17,,Investement Account,2222,JM Modiba,,R1 595 922.00,-12 439 210.65
+27-Feb-17,,Deposit,2222,JM Modiba,R548 100.00,,-11 891 110.65
+30-Sep-16,,Deposit,2222,JM Modiba,R262 243.45,,-11 628 867.20
+04-Oct-16,,Payment,2222,JM Modiba,,R262 243.45,-11 891 110.65
+12-Aug-16,Payment,,2222,JM Modiba,,R425 751.16,-12 316 861.81
+29-Jul-16,,Deposit,2222,JM Modiba,R425 751.16,,-11 891 110.65
+27-Feb-17,,Deposit,2222,JM Modiba,R174 119.65,,-11 716 991.00
+07-Feb-17,,Deposit,2222,JM Modiba,R342 126.45,,-11 374 864.55
+10-Feb-17,,Payment,2222,JM Modiba,,R342 126.45,-11 716 991.00
+07-Feb-17,,Deposit,2222,JM Modiba,R272 212.21,,-11 444 778.79
+10-Feb-17,,Payment,2222,JM Modiba,,R272 212.21,-11 716 991.00
+12-Aug-16,Payment,,2222,JM Modiba,,R316 707.22,-12 033 698.22
+29-Jul-16,,Deposit,2222,JM Modiba,R316 707.22,,-11 716 991.00
+01-Mar-16,,OPENING BALANCE,,,R25 270 746.90,,13 553 755.90
+,,,,,,,13 553 755.90
+,,,,,,,13 553 755.90
+,,,,,,,13 553 755.90
+,,,,,,,13 553 755.90
+,,,,,,,13 553 755.90
+,,,,,,,13 553 755.90
+,,,,,,,13 553 755.90
+,,,,,,,13 553 755.90
+,,,,,,,13 553 755.90
+,,,,,,,13 553 755.90
+,,,,,,,13 553 755.90
+,,,,,,,13 553 755.90
+,,,,,,,13 553 755.90
+,,,,,,,13 553 755.90
+,,,,,,,13 553 755.90
+,,,,,,,13 553 755.90
+,,,,,,,13 553 755.90
+,,,,,,,13 553 755.90
+,,,,,,,13 553 755.90
+,,,,,,,13 553 755.90
+,,,,,,,13 553 755.90
+,,,,,,,13 553 755.90
+,,,,,,,13 553 755.90
+,,,,,,,13 553 755.90
+,,,,,,,13 553 755.90
+,,,,,,,13 553 755.90
+,,,,,,,13 553 755.90
+,,,,,,,13 553 755.90
+,,,,,,,13 553 755.90
+,,,,,,,13 553 755.90
+,,,,,,,13 553 755.90
+,,,,,,,13 553 755.90

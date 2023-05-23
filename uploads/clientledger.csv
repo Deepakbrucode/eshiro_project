@@ -1,0 +1,10 @@
+"Client Name",dffffffffffffffffffffffffffff,,,,
+"File Name","OM Ntatleng",,,,
+"File No",TPC338,,,,
+,,,,,
+Date,Description,"File No",DR,CR,Balance
+,"Opening Balance",TPC338,,,R0.00
+29-Jul-2016,Deposit,TPC338,"R215,960.00",,"R215,960.00"
+10-Aug-2016,Payment,TPC338,,"R161,970.00","R53,990.00"
+12-Aug-2016,Fee,TPC338,,"R53,990.00",R0.00
+,,,,,R0.00

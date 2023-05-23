@@ -1,0 +1,19 @@
+    table {
+    border-collapse: collapse;
+    border:0px;
+}
+table th{font-weight: bold;}
+table, td, th {
+    font-size: 6px;
+    padding:10px;
+   /* border-bottom: 1px solid black!important; */
+/*    border:none;*/
+}
+
+     #tab-content table, td, th {
+        border-bottom: 1px solid #e7ecf1;
+}
+.col-md-6{width: 50% !important;}
+table,tr{border:0px;border-color:transparent;}
+
+

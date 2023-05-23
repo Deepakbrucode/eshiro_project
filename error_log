@@ -1,0 +1,539 @@
+[19-Jul-2017 07:10:55 America/Chicago] PHP Fatal error:  Class 'mPDF' not found in /home/stallioniin/public_html/accounts/application/controllers/Reports.php on line 254
+[19-Jul-2017 07:11:33 America/Chicago] PHP Fatal error:  Class 'mPDF' not found in /home/stallioniin/public_html/accounts/application/controllers/Reports.php on line 254
+[19-Jul-2017 07:13:52 America/Chicago] PHP Fatal error:  Class 'mPDF' not found in /home/stallioniin/public_html/accounts/application/controllers/Reports.php on line 254
+[19-Jul-2017 07:14:35 America/Chicago] PHP Fatal error:  Class 'mPDF' not found in /home/stallioniin/public_html/accounts/application/controllers/Reports.php on line 254
+[19-Jul-2017 07:16:05 America/Chicago] PHP Fatal error:  Class 'mPDF' not found in /home/stallioniin/public_html/accounts/application/controllers/Reports.php on line 254
+[19-Jul-2017 07:16:11 America/Chicago] PHP Fatal error:  Class 'mPDF' not found in /home/stallioniin/public_html/accounts/application/controllers/Reports.php on line 254
+[19-Jul-2017 07:30:21 America/Chicago] PHP Fatal error:  Class 'mPDF' not found in /home/stallioniin/public_html/accounts/application/controllers/Reports.php on line 254
+[19-Jul-2017 07:31:04 America/Chicago] PHP Fatal error:  Class 'mPDF' not found in /home/stallioniin/public_html/accounts/application/controllers/Reports.php on line 254
+[19-Jul-2017 07:34:19 America/Chicago] PHP Fatal error:  Class 'mPDF' not found in /home/stallioniin/public_html/accounts/application/controllers/Reports.php on line 254
+[19-Jul-2017 07:39:04 America/Chicago] PHP Fatal error:  Class 'mPDF' not found in /home/stallioniin/public_html/accounts/application/controllers/Reports.php on line 254
+[31-Jul-2017 02:18:16 America/Chicago] PHP Parse error:  syntax error, unexpected '>' in /home/stallioniin/public_html/accounts/application/controllers/Reports.php on line 666
+[31-Jul-2017 02:18:19 America/Chicago] PHP Parse error:  syntax error, unexpected '>' in /home/stallioniin/public_html/accounts/application/controllers/Reports.php on line 666
+[31-Jul-2017 02:19:22 America/Chicago] PHP Parse error:  syntax error, unexpected '>' in /home/stallioniin/public_html/accounts/application/controllers/Reports.php on line 666
+[31-Jul-2017 02:19:23 America/Chicago] PHP Parse error:  syntax error, unexpected '>' in /home/stallioniin/public_html/accounts/application/controllers/Reports.php on line 666
+[11-Aug-2017 06:33:19 America/Chicago] PHP Fatal error:  Call to undefined method PHPExcel_Style_Font::color() in /home/stallioniin/public_html/accounts/application/controllers/Reports.php on line 1617
+[11-Aug-2017 06:33:27 America/Chicago] PHP Fatal error:  Call to undefined method PHPExcel_Style_Font::color() in /home/stallioniin/public_html/accounts/application/controllers/Reports.php on line 1617
+[11-Aug-2017 06:34:19 America/Chicago] PHP Fatal error:  Call to undefined method PHPExcel_Style_Font::color() in /home/stallioniin/public_html/accounts/application/controllers/Reports.php on line 1617
+[11-Aug-2017 06:39:42 America/Chicago] PHP Fatal error:  Call to undefined method PHPExcel_Style_Font::color() in /home/stallioniin/public_html/accounts/application/controllers/Reports.php on line 1570
+[11-Aug-2017 06:45:33 America/Chicago] PHP Fatal error:  Call to undefined method PHPExcel_Style::setRGB() in /home/stallioniin/public_html/accounts/application/controllers/Reports.php on line 1598
+[12-Aug-2017 01:43:18 America/Chicago] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/stallioniin/public_html/accounts/application/controllers/Reports.php on line 1566
+[12-Aug-2017 07:21:58 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/stallioniin/public_html/accounts/application/controllers/Reports.php on line 1374
+[14-Aug-2017 03:47:35 America/Chicago] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/stallioniin/public_html/accounts/application/controllers/Reports.php on line 1905
+[14-Aug-2017 03:48:46 America/Chicago] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/stallioniin/public_html/accounts/application/controllers/Reports.php on line 1905
+[14-Aug-2017 03:48:48 America/Chicago] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/stallioniin/public_html/accounts/application/controllers/Reports.php on line 1905
+[14-Aug-2017 03:50:19 America/Chicago] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/stallioniin/public_html/accounts/application/controllers/Reports.php on line 1905
+[14-Aug-2017 03:51:12 America/Chicago] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/stallioniin/public_html/accounts/application/controllers/Reports.php on line 1905
+[14-Aug-2017 04:04:26 America/Chicago] PHP Fatal error:  Cannot use [] for reading in /home/stallioniin/public_html/accounts/application/controllers/Reports.php on line 1624
+[14-Aug-2017 04:04:36 America/Chicago] PHP Fatal error:  Cannot use [] for reading in /home/stallioniin/public_html/accounts/application/controllers/Reports.php on line 1624
+[14-Aug-2017 04:09:47 America/Chicago] PHP Fatal error:  Cannot use [] for reading in /home/stallioniin/public_html/accounts/application/controllers/Reports.php on line 1624
+[14-Aug-2017 05:31:49 America/Chicago] PHP Fatal error:  Cannot use [] for reading in /home/stallioniin/public_html/accounts/application/controllers/Reports.php on line 1626
+[14-Aug-2017 05:32:52 America/Chicago] PHP Fatal error:  Cannot use [] for reading in /home/stallioniin/public_html/accounts/application/controllers/Reports.php on line 1626
+[14-Aug-2017 05:57:33 America/Chicago] PHP Parse error:  syntax error, unexpected '$month' (T_VARIABLE) in /home/stallioniin/public_html/accounts/application/controllers/Reports.php on line 1623
+[14-Aug-2017 05:58:52 America/Chicago] PHP Parse error:  syntax error, unexpected '$month' (T_VARIABLE) in /home/stallioniin/public_html/accounts/application/controllers/Reports.php on line 1623
+[14-Aug-2017 05:59:44 America/Chicago] PHP Parse error:  syntax error, unexpected '$month' (T_VARIABLE) in /home/stallioniin/public_html/accounts/application/controllers/Reports.php on line 1623
+[14-Aug-2017 06:13:57 America/Chicago] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home/stallioniin/public_html/accounts/application/controllers/Reports.php on line 1618
+[14-Aug-2017 06:14:00 America/Chicago] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home/stallioniin/public_html/accounts/application/controllers/Reports.php on line 1618
+[14-Aug-2017 06:15:04 America/Chicago] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home/stallioniin/public_html/accounts/application/controllers/Reports.php on line 1618
+[14-Aug-2017 06:15:05 America/Chicago] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home/stallioniin/public_html/accounts/application/controllers/Reports.php on line 1618
+[14-Aug-2017 06:15:12 America/Chicago] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home/stallioniin/public_html/accounts/application/controllers/Reports.php on line 1618
+[14-Aug-2017 06:16:22 America/Chicago] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home/stallioniin/public_html/accounts/application/controllers/Reports.php on line 1618
+[14-Aug-2017 06:16:26 America/Chicago] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home/stallioniin/public_html/accounts/application/controllers/Reports.php on line 1618
+[14-Aug-2017 06:20:41 America/Chicago] PHP Fatal error:  Function name must be a string in /home/stallioniin/public_html/accounts/application/controllers/Reports.php on line 1618
+[14-Aug-2017 06:38:25 America/Chicago] PHP Fatal error:  Function name must be a string in /home/stallioniin/public_html/accounts/application/controllers/Reports.php on line 1618
+[14-Aug-2017 06:39:21 America/Chicago] PHP Fatal error:  Function name must be a string in /home/stallioniin/public_html/accounts/application/controllers/Reports.php on line 1618
+[14-Aug-2017 07:21:32 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/stallioniin/public_html/accounts/application/controllers/Reports.php on line 1801
+[14-Aug-2017 07:22:08 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/stallioniin/public_html/accounts/application/controllers/Reports.php on line 1801
+[14-Aug-2017 07:22:11 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/stallioniin/public_html/accounts/application/controllers/Reports.php on line 1801
+[14-Aug-2017 07:22:40 America/Chicago] PHP Parse error:  syntax error, unexpected '$client_id' (T_VARIABLE), expecting function (T_FUNCTION) in /home/stallioniin/public_html/accounts/application/controllers/Reports.php on line 1386
+[14-Aug-2017 07:33:25 America/Chicago] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/stallioniin/public_html/accounts/application/controllers/Reports.php on line 1360
+[14-Aug-2017 07:33:46 America/Chicago] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/stallioniin/public_html/accounts/application/controllers/Reports.php on line 1360
+[14-Aug-2017 07:34:00 America/Chicago] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/stallioniin/public_html/accounts/application/controllers/Reports.php on line 1360
+[15-Aug-2017 23:16:19 America/Chicago] PHP Fatal error:  Call to undefined method DOMText::getAttribute() in /home/stallioniin/public_html/accounts/application/third_party/dompdf/include/cellmap.cls.php on line 407
+[15-Aug-2017 23:16:40 America/Chicago] PHP Fatal error:  Call to undefined method DOMText::getAttribute() in /home/stallioniin/public_html/accounts/application/third_party/dompdf/include/cellmap.cls.php on line 407
+[15-Aug-2017 23:19:26 America/Chicago] PHP Fatal error:  Call to undefined method DOMText::getAttribute() in /home/stallioniin/public_html/accounts/application/third_party/dompdf/include/cellmap.cls.php on line 407
+[17-Aug-2017 23:07:48 America/Chicago] PHP Fatal error:  Cannot access empty property in /home/stallioniin/public_html/accounts/application/views/client_ledger.php on line 60
+[17-Aug-2017 23:50:07 America/Chicago] PHP Parse error:  syntax error, unexpected ''-'' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/stallioniin/public_html/accounts/application/views/client_ledger_pdf.php on line 47
+[17-Aug-2017 23:50:41 America/Chicago] PHP Parse error:  syntax error, unexpected ''-'' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/stallioniin/public_html/accounts/application/views/client_ledger_pdf.php on line 47
+[17-Aug-2017 23:52:15 America/Chicago] PHP Parse error:  syntax error, unexpected '$file_number' (T_VARIABLE), expecting ',' or ';' in /home/stallioniin/public_html/accounts/application/views/client_ledger_pdf.php on line 47
+[18-Aug-2017 00:03:34 America/Chicago] PHP Parse error:  syntax error, unexpected ''-'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/stallioniin/public_html/accounts/application/controllers/Reports.php on line 1685
+[18-Aug-2017 01:21:03 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/stallioniin/public_html/accounts/application/controllers/Reports.php on line 943
+[18-Aug-2017 02:00:46 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/stallioniin/public_html/accounts/application/controllers/Reports.php on line 943
+[18-Aug-2017 02:01:05 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/stallioniin/public_html/accounts/application/controllers/Reports.php on line 943
+[18-Aug-2017 04:09:30 America/Chicago] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/stallioniin/public_html/accounts/application/controllers/Reports.php on line 2187
+[18-Aug-2017 04:09:31 America/Chicago] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/stallioniin/public_html/accounts/application/controllers/Reports.php on line 2187
+[18-Aug-2017 04:09:48 America/Chicago] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/stallioniin/public_html/accounts/application/controllers/Reports.php on line 2187
+[18-Aug-2017 04:09:54 America/Chicago] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/stallioniin/public_html/accounts/application/controllers/Reports.php on line 2187
+[18-Aug-2017 04:10:04 America/Chicago] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/stallioniin/public_html/accounts/application/controllers/Reports.php on line 2187
+[18-Aug-2017 04:10:11 America/Chicago] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/stallioniin/public_html/accounts/application/controllers/Reports.php on line 2187
+[18-Aug-2017 04:29:09 America/Chicago] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/stallioniin/public_html/accounts/application/controllers/Reports.php on line 2114
+[18-Aug-2017 04:38:15 America/Chicago] PHP Parse error:  syntax error, unexpected '$trans_txt' (T_VARIABLE), expecting ')' in /home/stallioniin/public_html/accounts/application/controllers/Reports.php on line 350
+[18-Aug-2017 04:38:15 America/Chicago] PHP Parse error:  syntax error, unexpected '$trans_txt' (T_VARIABLE), expecting ')' in /home/stallioniin/public_html/accounts/application/controllers/Reports.php on line 350
+[18-Aug-2017 04:38:18 America/Chicago] PHP Parse error:  syntax error, unexpected '$trans_txt' (T_VARIABLE), expecting ')' in /home/stallioniin/public_html/accounts/application/controllers/Reports.php on line 350
+[18-Aug-2017 04:38:18 America/Chicago] PHP Parse error:  syntax error, unexpected '$trans_txt' (T_VARIABLE), expecting ')' in /home/stallioniin/public_html/accounts/application/controllers/Reports.php on line 350
+[18-Aug-2017 07:25:09 America/Chicago] PHP Fatal error:  Call to undefined function parseInt() in /home/stallioniin/public_html/accounts/application/controllers/Reports.php on line 611
+[18-Aug-2017 07:25:45 America/Chicago] PHP Fatal error:  Call to undefined function parseInt() in /home/stallioniin/public_html/accounts/application/controllers/Reports.php on line 611
+[20-Sep-2017 13:00:51 UTC] PHP Fatal error:  Call to undefined function mb_internal_encoding() in /home/truststallion/public_html/application/third_party/dompdf/dompdf_config.inc.php on line 442
+[20-Sep-2017 13:03:38 UTC] PHP Fatal error:  Call to undefined function mb_internal_encoding() in /home/truststallion/public_html/application/third_party/dompdf/dompdf_config.inc.php on line 442
+[20-Sep-2017 13:03:52 UTC] PHP Fatal error:  Call to undefined function mb_internal_encoding() in /home/truststallion/public_html/application/third_party/dompdf/dompdf_config.inc.php on line 442
+[20-Sep-2017 13:03:58 UTC] PHP Fatal error:  Call to undefined function mb_internal_encoding() in /home/truststallion/public_html/application/third_party/dompdf/dompdf_config.inc.php on line 442
+[20-Sep-2017 13:06:05 UTC] PHP Fatal error:  Call to undefined function mb_internal_encoding() in /home/truststallion/public_html/application/third_party/dompdf/dompdf_config.inc.php on line 442
+[20-Sep-2017 13:07:16 UTC] PHP Fatal error:  Call to undefined function mb_internal_encoding() in /home/truststallion/public_html/application/third_party/dompdf/dompdf_config.inc.php on line 442
+[20-Sep-2017 13:08:18 UTC] PHP Fatal error:  Call to undefined function mb_internal_encoding() in /home/truststallion/public_html/application/third_party/dompdf/dompdf_config.inc.php on line 442
+[20-Sep-2017 13:16:00 UTC] PHP Fatal error:  Call to undefined function mb_internal_encoding() in /home/truststallion/public_html/application/third_party/dompdf/dompdf_config.inc.php on line 442
+[20-Sep-2017 13:17:51 UTC] PHP Fatal error:  Call to undefined function mb_internal_encoding() in /home/truststallion/public_html/application/third_party/dompdf/dompdf_config.inc.php on line 442
+[20-Sep-2017 13:17:56 UTC] PHP Fatal error:  Call to undefined function mb_internal_encoding() in /home/truststallion/public_html/application/third_party/dompdf/dompdf_config.inc.php on line 442
+[20-Sep-2017 13:18:04 UTC] PHP Fatal error:  Call to undefined function mb_internal_encoding() in /home/truststallion/public_html/application/third_party/dompdf/dompdf_config.inc.php on line 442
+[20-Sep-2017 13:19:49 UTC] PHP Fatal error:  Call to undefined function mb_internal_encoding() in /home/truststallion/public_html/application/third_party/dompdf/dompdf_config.inc.php on line 442
+[21-Sep-2017 04:05:13 UTC] PHP Fatal error:  Call to undefined function mb_internal_encoding() in /home/truststallion/public_html/application/third_party/dompdf/dompdf_config.inc.php on line 442
+[21-Sep-2017 04:08:21 UTC] PHP Fatal error:  Call to undefined function mb_internal_encoding() in /home/truststallion/public_html/application/third_party/dompdf/dompdf_config.inc.php on line 442
+[21-Sep-2017 04:11:21 UTC] PHP Fatal error:  Call to undefined function mb_internal_encoding() in /home/truststallion/public_html/application/third_party/dompdf/dompdf_config.inc.php on line 442
+[21-Sep-2017 04:11:36 UTC] PHP Fatal error:  Call to undefined function mb_internal_encoding() in /home/truststallion/public_html/application/third_party/dompdf/dompdf_config.inc.php on line 442
+[21-Sep-2017 04:36:13 UTC] PHP Fatal error:  Call to undefined function mb_internal_encoding() in /home/truststallion/public_html/application/third_party/dompdf/dompdf_config.inc.php on line 442
+[21-Sep-2017 04:36:28 UTC] PHP Fatal error:  Call to undefined function mb_internal_encoding() in /home/truststallion/public_html/application/third_party/dompdf/dompdf_config.inc.php on line 442
+[21-Sep-2017 04:36:36 UTC] PHP Fatal error:  Call to undefined function mb_internal_encoding() in /home/truststallion/public_html/application/third_party/dompdf/dompdf_config.inc.php on line 442
+[21-Sep-2017 04:38:08 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 32 bytes) in /home/truststallion/public_html/application/third_party/dompdf/include/stylesheet.cls.php on line 323
+[21-Sep-2017 04:38:12 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 72 bytes) in /home/truststallion/public_html/application/third_party/dompdf/include/stylesheet.cls.php on line 323
+[21-Sep-2017 04:38:21 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 32 bytes) in /home/truststallion/public_html/application/third_party/dompdf/include/stylesheet.cls.php on line 323
+[21-Sep-2017 04:40:42 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 32 bytes) in /home/truststallion/public_html/application/third_party/dompdf/include/stylesheet.cls.php on line 323
+[21-Sep-2017 04:40:46 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 72 bytes) in /home/truststallion/public_html/application/third_party/dompdf/include/stylesheet.cls.php on line 323
+[23-Jul-2018 12:01:35 UTC] PHP Fatal error:  Cannot access empty property in /home/truststallion/public_html/report/system/core/Model.php on line 77
+[10-Aug-2018 10:06:10 UTC] PHP Fatal error:  Class 'ZIPARCHIVE' not found in /home/truststallion/public_html/report/application/third_party/PHPExcel/Classes/PHPExcel/Reader/Excel2007.php on line 315
+[10-Aug-2018 10:10:44 UTC] PHP Fatal error:  Class 'ZIPARCHIVE' not found in /home/truststallion/public_html/report/application/third_party/PHPExcel/Classes/PHPExcel/Reader/Excel2007.php on line 315
+[10-Aug-2018 10:11:24 UTC] PHP Fatal error:  Class 'ZIPARCHIVE' not found in /home/truststallion/public_html/report/application/third_party/PHPExcel/Classes/PHPExcel/Reader/Excel2007.php on line 315
+[10-Aug-2018 10:17:07 UTC] PHP Fatal error:  Class 'ZIPARCHIVE' not found in /home/truststallion/public_html/report/application/third_party/PHPExcel/Classes/PHPExcel/Reader/Excel2007.php on line 315
+[10-Aug-2018 10:23:16 UTC] PHP Fatal error:  Class 'ZIPARCHIVE' not found in /home/truststallion/public_html/report/application/third_party/PHPExcel/Classes/PHPExcel/Reader/Excel2007.php on line 315
+[14-Sep-2018 06:07:37 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/truststallion/public_html/report/application/views/import_data.php on line 85
+[14-Sep-2018 06:17:30 UTC] PHP Fatal error:  Call to a member function getClientDetails() on null in /home/truststallion/public_html/report/application/controllers/Costcentre.php on line 43
+[14-Sep-2018 08:57:41 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/truststallion/public_html/report/application/views/investigation_data.php on line 114
+[14-Sep-2018 10:06:26 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/truststallion/public_html/report/application/views/add_costcentre.php on line 84
+[17-Sep-2018 04:42:58 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/truststallion/public_html/report/application/views/template/admin/topheader.php on line 28
+[09-Nov-2018 10:33:11 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/truststallion/public_html/report/application/controllers/Reports.php on line 1298
+[22-Nov-2018 09:04:19 UTC] PHP Parse error:  syntax error, unexpected ''headerfiles'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/truststallion/public_html/report/application/controllers/Costcentre.php on line 152
+[22-Nov-2018 10:06:03 UTC] PHP Fatal error:  Call to undefined method Costcentre_model::Insert_common() in /home/truststallion/public_html/report/application/controllers/Costcentre.php on line 314
+[22-Nov-2018 10:06:57 UTC] PHP Fatal error:  Call to undefined method Costcentre_model::Insert_common() in /home/truststallion/public_html/report/application/controllers/Costcentre.php on line 314
+[22-Nov-2018 12:21:04 UTC] PHP Fatal error:  Call to a member function getDetailsCommon() on null in /home/truststallion/public_html/report/application/controllers/Client.php on line 96
+[26-Nov-2018 05:01:32 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/truststallion/public_html/report/application/controllers/Reports.php on line 1298
+[01-Dec-2018 05:53:52 UTC] PHP Parse error:  syntax error, unexpected ''<div class="alert alert-succe' (T_ENCAPSED_AND_WHITESPACE) in /home/truststallion/public_html/report/application/controllers/Banktransactions.php on line 449
+[12-Apr-2019 09:46:13 UTC] PHP Fatal error:  Cannot redeclare Banktransactions::analysis_data() in /home/truststallion/public_html/report/application/controllers/Banktransactions.php on line 1017
+[12-Apr-2019 09:46:16 UTC] PHP Fatal error:  Cannot redeclare Banktransactions::analysis_data() in /home/truststallion/public_html/report/application/controllers/Banktransactions.php on line 1017
+[12-Apr-2019 09:46:23 UTC] PHP Fatal error:  Cannot redeclare Banktransactions::analysis_data() in /home/truststallion/public_html/report/application/controllers/Banktransactions.php on line 1017
+[12-Apr-2019 12:47:07 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or '$' in /home/truststallion/public_html/report/application/controllers/Reports.php on line 903
+[13-Apr-2019 05:00:37 UTC] PHP Fatal error:  Call to undefined method Reports::cashbook_arrayfun() in /home/truststallion/public_html/report/application/controllers/Reports.php on line 2449
+[13-Apr-2019 05:11:14 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/truststallion/public_html/report/application/controllers/Reports.php on line 2442
+[13-Apr-2019 07:16:54 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/truststallion/public_html/report/application/controllers/Reports.php on line 2974
+[13-Apr-2019 07:16:57 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/truststallion/public_html/report/application/controllers/Reports.php on line 2974
+[20-Apr-2019 11:09:43 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or '$' in /home/truststallion/public_html/report/application/controllers/Reports.php on line 2217
+[23-Apr-2019 12:04:55 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/truststallion/public_html/report/application/views/analysis_data.php on line 56
+[23-Apr-2019 12:19:23 UTC] PHP Fatal error:  Call to undefined function 1970-01-31() in /home/truststallion/public_html/report/application/views/analysis_data.php on line 64
+[23-Apr-2019 12:19:30 UTC] PHP Fatal error:  Call to undefined function 1970-01-31() in /home/truststallion/public_html/report/application/views/analysis_data.php on line 64
+[23-Apr-2019 12:19:57 UTC] PHP Fatal error:  Call to undefined function 2016-04-30() in /home/truststallion/public_html/report/application/views/analysis_data.php on line 64
+[25-Apr-2019 07:01:48 UTC] PHP Fatal error:  Call to a member function getDetails() on null in /home/truststallion/public_html/report/application/controllers/Invoicing.php on line 529
+[25-Apr-2019 07:01:59 UTC] PHP Fatal error:  Call to a member function getDetails() on null in /home/truststallion/public_html/report/application/controllers/Invoicing.php on line 529
+[29-Apr-2019 11:06:04 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/truststallion/public_html/report/application/controllers/Invoicing.php on line 565
+[29-Apr-2019 11:06:11 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/truststallion/public_html/report/application/controllers/Invoicing.php on line 565
+[30-Apr-2019 04:29:03 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/truststallion/public_html/report/application/controllers/Invoicing.php on line 916
+[30-Apr-2019 06:46:36 UTC] PHP Fatal error:  Cannot redeclare Invoicing::invoice_pdf_ajax() in /home/truststallion/public_html/report/application/controllers/Invoicing.php on line 1001
+[20-May-2019 09:35:48 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/truststallion/public_html/report/application/controllers/Invoicing.php on line 1066
+[20-May-2019 09:47:25 UTC] PHP Fatal error:  Call to undefined method Reports_model::getEndData() in /home/truststallion/public_html/report/application/models/Reports_model.php on line 80
+[20-May-2019 09:47:27 UTC] PHP Fatal error:  Call to undefined method Reports_model::getEndData() in /home/truststallion/public_html/report/application/models/Reports_model.php on line 80
+[20-May-2019 09:57:53 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/truststallion/public_html/report/application/controllers/Invoicing.php on line 669
+[20-May-2019 09:57:55 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/truststallion/public_html/report/application/controllers/Invoicing.php on line 669
+[23-May-2019 06:44:11 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/truststallion/public_html/report/application/views/invoicing/invoicepdf.php on line 251
+[31-May-2019 04:10:10 UTC] PHP Parse error:  syntax error, unexpected '$client_id' (T_VARIABLE), expecting ';' or '{' in /home/truststallion/public_html/report/application/controllers/Reports.php on line 3238
+[31-May-2019 05:07:55 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/truststallion/public_html/report/application/controllers/Reports.php on line 3623
+[31-May-2019 05:08:05 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/truststallion/public_html/report/application/controllers/Reports.php on line 3623
+[31-May-2019 05:26:51 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/truststallion/public_html/report/application/controllers/Client.php on line 334
+[04-Jun-2019 05:25:09 UTC] PHP Parse error:  syntax error, unexpected '':C'' (T_CONSTANT_ENCAPSED_STRING) in /home/truststallion/public_html/report/application/controllers/Banktransactions.php on line 1197
+[04-Jun-2019 05:27:50 UTC] PHP Fatal error:  Cannot use [] for reading in /home/truststallion/public_html/report/application/controllers/Banktransactions.php on line 1084
+[04-Jun-2019 09:58:05 UTC] PHP Parse error:  syntax error, unexpected 'as' (T_AS) in /home/truststallion/public_html/report/application/controllers/Reports.php on line 4623
+[05-Jun-2019 04:49:20 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/truststallion/public_html/report/application/controllers/Reports.php on line 4725
+[05-Jun-2019 11:08:48 UTC] PHP Parse error:  syntax error, unexpected 'as' (T_AS), expecting ')' in /home/truststallion/public_html/report/application/controllers/Reports.php on line 4616
+[05-Jun-2019 12:34:00 UTC] PHP Parse error:  syntax error, unexpected '$cost_txt_asset' (T_VARIABLE) in /home/truststallion/public_html/report/application/controllers/Reports.php on line 4822
+[05-Jun-2019 12:34:04 UTC] PHP Parse error:  syntax error, unexpected '$cost_txt_asset' (T_VARIABLE) in /home/truststallion/public_html/report/application/controllers/Reports.php on line 4822
+[05-Jun-2019 12:34:05 UTC] PHP Parse error:  syntax error, unexpected '$cost_txt_asset' (T_VARIABLE) in /home/truststallion/public_html/report/application/controllers/Reports.php on line 4822
+[05-Jun-2019 12:34:22 UTC] PHP Parse error:  syntax error, unexpected '$cost_txt_asset' (T_VARIABLE) in /home/truststallion/public_html/report/application/controllers/Reports.php on line 4822
+[11-Nov-2019 09:06:37 UTC] PHP Parse error:  syntax error, unexpected '||' (T_BOOLEAN_OR) in /home/truststallion/public_html/report/application/views/template/admin/sidebar.php on line 221
+[11-Nov-2019 09:08:35 UTC] PHP Parse error:  syntax error, unexpected '||' (T_BOOLEAN_OR) in /home/truststallion/public_html/report/application/views/template/admin/sidebar.php on line 221
+[11-Nov-2019 09:08:54 UTC] PHP Parse error:  syntax error, unexpected '||' (T_BOOLEAN_OR) in /home/truststallion/public_html/report/application/views/template/admin/sidebar.php on line 221
+[11-Nov-2019 09:09:06 UTC] PHP Parse error:  syntax error, unexpected '||' (T_BOOLEAN_OR) in /home/truststallion/public_html/report/application/views/template/admin/sidebar.php on line 221
+[11-Nov-2019 10:24:59 UTC] PHP Fatal error:  Call to undefined method Reports_model::InsertTempCash() in /home/truststallion/public_html/report/application/controllers/Reports.php on line 2016
+[11-Nov-2019 12:29:09 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::results() in /home/truststallion/public_html/report/application/controllers/Reports.php on line 269
+[14-Nov-2019 04:25:52 UTC] PHP Notice:  Constant SALES_COST_CAT_ID already defined in /home/truststallion/public_html/report/application/config/constants.php on line 107
+[14-Nov-2019 04:25:52 UTC] PHP Notice:  Constant SALES_COST_SUBCAT_ID already defined in /home/truststallion/public_html/report/application/config/constants.php on line 108
+[14-Nov-2019 04:25:52 UTC] PHP Notice:  Constant SALES_COST_CAT_ID already defined in /home/truststallion/public_html/report/application/config/constants.php on line 115
+[14-Nov-2019 04:25:52 UTC] PHP Notice:  Constant SALES_COST_SUBCAT_ID already defined in /home/truststallion/public_html/report/application/config/constants.php on line 116
+[14-Nov-2019 04:26:05 UTC] PHP Notice:  Constant SALES_COST_CAT_ID already defined in /home/truststallion/public_html/report/application/config/constants.php on line 107
+[14-Nov-2019 04:26:05 UTC] PHP Notice:  Constant SALES_COST_SUBCAT_ID already defined in /home/truststallion/public_html/report/application/config/constants.php on line 108
+[14-Nov-2019 04:26:05 UTC] PHP Notice:  Constant SALES_COST_CAT_ID already defined in /home/truststallion/public_html/report/application/config/constants.php on line 115
+[14-Nov-2019 04:26:05 UTC] PHP Notice:  Constant SALES_COST_SUBCAT_ID already defined in /home/truststallion/public_html/report/application/config/constants.php on line 116
+[20-Nov-2019 06:32:34 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 204800 bytes) in /home/eshiro/public_html/application/third_party/mpdf/mpdf.php on line 3422
+[29-Nov-2019 07:53:55 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/eshiro/public_html/application/controllers/Reports.php on line 2306
+[29-Nov-2019 07:58:31 UTC] PHP Parse error:  syntax error, unexpected ''"><table style="width:100%"><' (T_ENCAPSED_AND_WHITESPACE) in /home/eshiro/public_html/application/controllers/Reports.php on line 2847
+[29-Nov-2019 08:53:41 UTC] PHP Parse error:  syntax error, unexpected 'fil' in /home/eshiro/public_html/application/controllers/Reports.php on line 3151
+[29-Nov-2019 08:53:44 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/eshiro/public_html/application/controllers/Reports.php on line 3797
+[29-Nov-2019 08:53:54 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/eshiro/public_html/application/controllers/Reports.php on line 5840
+[29-Nov-2019 09:11:41 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/eshiro/public_html/application/controllers/Reports.php on line 1543
+[29-Nov-2019 09:14:12 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/eshiro/public_html/application/controllers/Reports.php on line 2494
+[29-Nov-2019 09:40:59 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/eshiro/public_html/application/controllers/Reports.php on line 1164
+[29-Nov-2019 09:54:19 UTC] PHP Parse error:  syntax error, unexpected ''1'){$ledger_title = 'Invoicin' (T_ENCAPSED_AND_WHITESPACE) in /home/eshiro/public_html/application/controllers/Reports.php on line 5748
+[29-Nov-2019 10:03:50 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/eshiro/public_html/application/controllers/Reports.php on line 3301
+[29-Nov-2019 10:12:13 UTC] PHP Parse error:  syntax error, unexpected ''lib/boo' (T_ENCAPSED_AND_WHITESPACE), expecting ')' in /home/eshiro/public_html/application/controllers/Reports.php on line 1826
+[29-Nov-2019 10:17:36 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/eshiro/public_html/application/controllers/Reports.php on line 6292
+[29-Nov-2019 12:09:42 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/eshiro/public_html/application/controllers/Reports.php on line 4228
+[30-Nov-2019 04:54:34 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/eshiro/public_html/application/controllers/Reports.php on line 3033
+[30-Nov-2019 04:54:37 UTC] PHP Parse error:  syntax error, unexpected ''//cdn.rawgit.com/niklasvh/h' (T_ENCAPSED_AND_WHITESPACE), expecting ')' in /home/eshiro/public_html/application/controllers/Reports.php on line 5036
+[30-Nov-2019 05:00:07 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/eshiro/public_html/application/controllers/Reports.php on line 1964
+[30-Nov-2019 05:04:35 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ';' in /home/eshiro/public_html/application/controllers/Reports.php on line 2449
+[30-Nov-2019 05:17:48 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/eshiro/public_html/application/controllers/Reports.php on line 3867
+[30-Nov-2019 05:17:53 UTC] PHP Parse error:  syntax error, unexpected '$excel_array' (T_VARIABLE), expecting function (T_FUNCTION) in /home/eshiro/public_html/application/controllers/Reports.php on line 4029
+[30-Nov-2019 05:18:02 UTC] PHP Parse error:  syntax error, unexpected '$excel_array' (T_VARIABLE), expecting function (T_FUNCTION) in /home/eshiro/public_html/application/controllers/Reports.php on line 4029
+[30-Nov-2019 05:25:52 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/eshiro/public_html/application/controllers/Reports.php on line 6512
+[30-Nov-2019 05:34:33 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ')' in /home/eshiro/public_html/application/controllers/Reports.php on line 4726
+[30-Nov-2019 05:37:07 UTC] PHP Parse error:  syntax error, unexpected ''lib/bootstrap-' (T_ENCAPSED_AND_WHITESPACE), expecting ')' in /home/eshiro/public_html/application/controllers/Reports.php on line 2696
+[30-Nov-2019 05:37:17 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/eshiro/public_html/application/controllers/Reports.php on line 5623
+[30-Nov-2019 05:37:20 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/eshiro/public_html/application/controllers/Reports.php on line 6172
+[30-Nov-2019 05:38:03 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/eshiro/public_html/application/controllers/Reports.php on line 3988
+[30-Nov-2019 05:38:05 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/eshiro/public_html/application/controllers/Reports.php on line 3988
+[30-Nov-2019 05:40:23 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/eshiro/public_html/application/controllers/Reports.php on line 3938
+[30-Nov-2019 05:40:26 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/eshiro/public_html/application/controllers/Reports.php on line 3938
+[30-Nov-2019 05:40:43 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/eshiro/public_html/application/controllers/Reports.php on line 3867
+[30-Nov-2019 05:40:45 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/eshiro/public_html/application/controllers/Reports.php on line 5338
+[30-Nov-2019 05:45:51 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/eshiro/public_html/application/controllers/Reports.php on line 6545
+[30-Nov-2019 05:46:44 UTC] PHP Parse error:  syntax error, unexpected ''sum(a' (T_ENCAPSED_AND_WHITESPACE) in /home/eshiro/public_html/application/controllers/Reports.php on line 2243
+[30-Nov-2019 06:09:49 UTC] PHP Warning:  Unterminated comment starting line 127 in /home/eshiro/public_html/application/controllers/Reports.php on line 127
+[30-Nov-2019 06:09:49 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/eshiro/public_html/application/controllers/Reports.php on line 135
+[30-Nov-2019 06:29:35 UTC] PHP Parse error:  syntax error, unexpected ''client' (T_ENCAPSED_AND_WHITESPACE), expecting ']' in /home/eshiro/public_html/application/controllers/Reports.php on line 4701
+[30-Nov-2019 06:50:54 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ')' in /home/eshiro/public_html/application/controllers/Reports.php on line 383
+[30-Nov-2019 06:51:32 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/eshiro/public_html/application/controllers/Reports.php on line 2788
+[30-Nov-2019 06:53:42 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/eshiro/public_html/application/controllers/Reports.php on line 1270
+[30-Nov-2019 06:55:55 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/eshiro/public_html/application/controllers/Reports.php on line 3301
+[30-Nov-2019 06:55:59 UTC] PHP Parse error:  syntax error, unexpected ''</p><p style="text-align: cen' (T_ENCAPSED_AND_WHITESPACE) in /home/eshiro/public_html/application/controllers/Reports.php on line 4523
+[30-Nov-2019 06:56:03 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/eshiro/public_html/application/controllers/Reports.php on line 6005
+[30-Nov-2019 07:23:19 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/eshiro/public_html/application/controllers/Reports.php on line 369
+[30-Nov-2019 07:50:55 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/eshiro/public_html/application/controllers/Reports.php on line 1923
+[30-Nov-2019 08:54:40 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/eshiro/public_html/application/controllers/Reports.php on line 1923
+[30-Nov-2019 08:54:56 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ')' in /home/eshiro/public_html/application/controllers/Reports.php on line 3785
+[30-Nov-2019 08:55:09 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ')' in /home/eshiro/public_html/application/controllers/Reports.php on line 3785
+[30-Nov-2019 09:04:32 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/eshiro/public_html/application/controllers/Reports.php on line 4991
+[30-Nov-2019 09:06:40 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 72 bytes) in /home/eshiro/public_html/application/third_party/mpdf/ttfontdata/dejavusanscondensedB.mtx.php on line 3482
+[30-Nov-2019 09:07:15 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 72 bytes) in /home/eshiro/public_html/application/third_party/mpdf/ttfontdata/dejavusanscondensedB.mtx.php on line 3482
+[30-Nov-2019 09:16:11 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 32 bytes) in /home/eshiro/public_html/application/third_party/mpdf/ttfontdata/dejavusanscondensedB.mtx.php on line 3469
+[30-Nov-2019 10:01:58 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/eshiro/public_html/application/controllers/Reports.php on line 4841
+[30-Nov-2019 10:03:31 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/eshiro/public_html/application/controllers/Reports.php on line 4840
+[30-Nov-2019 10:03:34 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/eshiro/public_html/application/controllers/Reports.php on line 4840
+[30-Nov-2019 10:05:30 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/eshiro/public_html/application/controllers/Reports.php on line 4840
+[30-Nov-2019 10:05:34 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/eshiro/public_html/application/controllers/Reports.php on line 4840
+[30-Nov-2019 10:06:25 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/eshiro/public_html/application/controllers/Reports.php on line 4841
+[30-Nov-2019 10:06:28 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/eshiro/public_html/application/controllers/Reports.php on line 4841
+[30-Nov-2019 10:06:29 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/eshiro/public_html/application/controllers/Reports.php on line 4841
+[30-Nov-2019 10:09:59 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/eshiro/public_html/application/controllers/Reports.php on line 4798
+[30-Nov-2019 10:10:02 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/eshiro/public_html/application/controllers/Reports.php on line 4798
+[30-Nov-2019 10:11:41 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 72 bytes) in /home/eshiro/public_html/application/third_party/mpdf/ttfontdata/dejavusanscondensedB.mtx.php on line 3088
+[30-Nov-2019 10:12:24 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 72 bytes) in /home/eshiro/public_html/application/third_party/mpdf/ttfontdata/dejavusanscondensedB.mtx.php on line 3088
+[30-Nov-2019 10:16:42 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 72 bytes) in /home/eshiro/public_html/application/third_party/mpdf/ttfontdata/dejavusanscondensedB.mtx.php on line 3078
+[30-Nov-2019 10:18:59 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 72 bytes) in /home/eshiro/public_html/application/third_party/mpdf/ttfontdata/dejavusanscondensedB.mtx.php on line 3078
+[30-Nov-2019 10:21:47 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 72 bytes) in /home/eshiro/public_html/application/third_party/mpdf/ttfontdata/dejavusanscondensedB.mtx.php on line 3351
+[30-Nov-2019 10:22:03 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 72 bytes) in /home/eshiro/public_html/application/third_party/mpdf/ttfontdata/dejavusanscondensedB.mtx.php on line 3351
+[30-Nov-2019 10:31:26 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 32 bytes) in /home/eshiro/public_html/application/third_party/mpdf/ttfontdata/dejavusanscondensedB.mtx.php on line 3357
+[30-Nov-2019 10:45:31 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/eshiro/public_html/application/controllers/Reports.php on line 1923
+[30-Nov-2019 10:57:15 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ')' in /home/eshiro/public_html/application/controllers/Reports.php on line 383
+[02-Dec-2019 05:14:47 UTC] PHP Fatal error:  Call to undefined method Banktransactions::bankstat_arrayfun() in /home/eshiro/public_html/application/controllers/Banktransactions.php on line 1359
+[02-Dec-2019 05:24:35 UTC] PHP Fatal error:  Cannot redeclare Reports_model::bankstat_montdetails() in /home/eshiro/public_html/application/models/Reports_model.php on line 150
+[02-Dec-2019 05:25:08 UTC] PHP Fatal error:  Cannot redeclare Reports_model::bankstat_montdetails() in /home/eshiro/public_html/application/models/Reports_model.php on line 150
+[02-Dec-2019 05:25:12 UTC] PHP Fatal error:  Cannot redeclare Reports_model::bankstat_montdetails() in /home/eshiro/public_html/application/models/Reports_model.php on line 150
+[02-Dec-2019 06:05:37 UTC] PHP Fatal error:  Cannot redeclare Reports_model::total_cr_new() in /home/eshiro/public_html/application/models/Reports_model.php on line 178
+[03-Dec-2019 09:36:23 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/eshiro/public_html/application/controllers/Reports.php on line 1141
+[03-Dec-2019 09:55:11 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/eshiro/public_html/application/controllers/Reports.php on line 6929
+[04-Dec-2019 07:49:49 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ')' in /home/eshiro/public_html/application/controllers/Reports.php on line 4124
+[04-Dec-2019 08:44:29 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/eshiro/public_html/application/controllers/Reports.php on line 4700
+[04-Dec-2019 08:54:09 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/eshiro/public_html/application/controllers/Reports.php on line 759
+[04-Dec-2019 09:50:00 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ';' in /home/eshiro/public_html/application/controllers/Reports.php on line 2449
+[04-Dec-2019 09:55:35 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/eshiro/public_html/application/controllers/Reports.php on line 4220
+[04-Dec-2019 10:01:05 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/eshiro/public_html/application/controllers/Reports.php on line 1104
+[04-Dec-2019 10:04:56 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/eshiro/public_html/application/controllers/Reports.php on line 3150
+[04-Dec-2019 10:16:45 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/eshiro/public_html/application/controllers/Reports.php on line 1104
+[04-Dec-2019 10:30:44 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/eshiro/public_html/application/controllers/Reports.php on line 2106
+[04-Dec-2019 10:30:56 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/eshiro/public_html/application/controllers/Reports.php on line 6599
+[04-Dec-2019 10:32:17 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/eshiro/public_html/application/controllers/Reports.php on line 1451
+[04-Dec-2019 12:07:55 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/eshiro/public_html/application/controllers/Reports.php on line 5889
+[05-Dec-2019 04:28:58 UTC] PHP Parse error:  syntax error, unexpected '$excel_array' (T_VARIABLE) in /home/eshiro/public_html/application/controllers/Banktransactions.php on line 2029
+[05-Dec-2019 04:33:34 UTC] PHP Parse error:  syntax error, unexpected '$excel_array' (T_VARIABLE) in /home/eshiro/public_html/application/controllers/Banktransactions.php on line 2029
+[05-Dec-2019 04:50:14 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/eshiro/public_html/application/controllers/Banktransactions.php on line 2247
+[05-Dec-2019 08:44:52 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/eshiro/public_html/application/controllers/Reports.php on line 4589
+[05-Dec-2019 08:45:34 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/eshiro/public_html/application/controllers/Reports.php on line 3998
+[05-Dec-2019 09:43:27 UTC] PHP Parse error:  syntax error, unexpected ''lib/scripts/layout' (T_ENCAPSED_AND_WHITESPACE), expecting ')' in /home/eshiro/public_html/application/controllers/Reports.php on line 2051
+[05-Dec-2019 09:43:30 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/eshiro/public_html/application/controllers/Reports.php on line 3646
+[05-Dec-2019 09:43:31 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/eshiro/public_html/application/controllers/Reports.php on line 4119
+[05-Dec-2019 09:43:32 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ')' in /home/eshiro/public_html/application/controllers/Reports.php on line 4548
+[05-Dec-2019 09:45:13 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/eshiro/public_html/application/controllers/Reports.php on line 6115
+[05-Dec-2019 12:20:43 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/eshiro/public_html/application/controllers/Reports.php on line 1104
+[07-Dec-2019 04:46:11 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/eshiro/public_html/application/controllers/Reports.php on line 2984
+[07-Dec-2019 05:10:35 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ')' in /home/eshiro/public_html/application/controllers/Reports.php on line 4189
+[07-Dec-2019 06:34:14 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/eshiro/public_html/application/controllers/Reports.php on line 5722
+[07-Dec-2019 06:42:23 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/eshiro/public_html/application/controllers/Reports.php on line 4018
+[07-Dec-2019 07:35:32 UTC] PHP Parse error:  syntax error, unexpected ''lib/bootstrap-conf' (T_ENCAPSED_AND_WHITESPACE), expecting ')' in /home/eshiro/public_html/application/controllers/Reports.php on line 5891
+[09-Dec-2019 05:18:27 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/eshiro/public_html/application/controllers/Reports.php on line 6348
+[10-Dec-2019 06:05:41 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/eshiro/public_html/application/controllers/Reports.php on line 6492
+[10-Dec-2019 06:23:53 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/eshiro/public_html/application/controllers/Reports.php on line 1543
+[12-Dec-2019 07:43:40 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/eshiro/public_html/application/controllers/Reports.php on line 1141
+[13-Dec-2019 06:28:00 UTC] PHP Fatal error:  Call to undefined method Reports_model::getEndData() in /home/eshiro/public_html/application/models/Reports_model.php on line 86
+[13-Dec-2019 06:28:07 UTC] PHP Fatal error:  Call to undefined method Reports_model::getEndData() in /home/eshiro/public_html/application/models/Reports_model.php on line 86
+[13-Dec-2019 09:39:34 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/eshiro/public_html/application/controllers/Reports.php on line 3422
+[18-Dec-2019 04:01:02 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/eshiro/public_html/application/controllers/Reports.php on line 4992
+[18-Dec-2019 04:48:13 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/eshiro/public_html/application/controllers/Reports.php on line 5810
+[18-Dec-2019 05:46:29 UTC] PHP Fatal error:  Call to undefined method Reports_model::getEndData() in /home/eshiro/public_html/application/models/Reports_model.php on line 86
+[18-Dec-2019 05:46:32 UTC] PHP Fatal error:  Call to undefined method Reports_model::getEndData() in /home/eshiro/public_html/application/models/Reports_model.php on line 86
+[18-Dec-2019 05:50:35 UTC] PHP Fatal error:  Call to undefined method Reports_model::getEndData() in /home/eshiro/public_html/application/models/Reports_model.php on line 86
+[18-Dec-2019 06:53:02 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/eshiro/public_html/application/controllers/Reports.php on line 6747
+[18-Dec-2019 06:53:07 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/eshiro/public_html/application/controllers/Reports.php on line 6747
+[23-Dec-2019 05:45:00 UTC] PHP Parse error:  syntax error, unexpected '$oformat_amount' (T_VARIABLE), expecting function (T_FUNCTION) in /home/eshiro/public_html/application/controllers/Banktransactions.php on line 2032
+[23-Dec-2019 05:45:30 UTC] PHP Parse error:  syntax error, unexpected '$oformat_amount' (T_VARIABLE), expecting function (T_FUNCTION) in /home/eshiro/public_html/application/controllers/Banktransactions.php on line 2032
+[25-Dec-2019 05:22:39 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/eshiro/public_html/application/controllers/Banktransactions.php on line 4491
+[26-Dec-2019 12:18:25 UTC] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/eshiro/public_html/application/controllers/Banktransactions.php on line 3248
+[08-Jan-2020 04:14:06 UTC] PHP Fatal error:  Call to undefined method Reports::bankstat_openingbanlance() in /home/eshiro/public_html/application/controllers/Reports.php on line 7046
+[15-Feb-2020 04:57:57 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/eshiro/public_html/application/controllers/Invoicing.php on line 1171
+[15-Feb-2020 05:51:51 UTC] PHP Fatal error:  Cannot use try without catch or finally in /home/eshiro/public_html/application/controllers/Invoicing.php on line 1190
+[15-Feb-2020 05:53:22 UTC] PHP Parse error:  syntax error, unexpected 'Exception' (T_STRING), expecting '(' in /home/eshiro/public_html/application/controllers/Invoicing.php on line 1191
+[15-Feb-2020 05:53:24 UTC] PHP Parse error:  syntax error, unexpected 'Exception' (T_STRING), expecting '(' in /home/eshiro/public_html/application/controllers/Invoicing.php on line 1191
+[17-Feb-2020 09:27:53 UTC] PHP Fatal error:  Call to undefined method Reports::bankstat_openingbanlance() in /home/eshiro/public_html/application/controllers/Reports.php on line 7563
+[17-Feb-2020 09:28:17 UTC] PHP Fatal error:  Call to undefined method Reports::bankstat_openingbanlance() in /home/eshiro/public_html/application/controllers/Reports.php on line 7563
+[17-Feb-2020 09:37:24 UTC] PHP Parse error:  syntax error, unexpected ''(' (T_ENCAPSED_AND_WHITESPACE) in /home/eshiro/public_html/application/controllers/Reports.php on line 7955
+[27-Aug-2022 06:09:58 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/eshiro/public_html/application/controllers/Financialreport.php on line 130
+[27-Aug-2022 06:58:38 UTC] PHP Fatal error:  Call to undefined method Financialreport::bankstat_openingbanlance_invoice() in /home/eshiro/public_html/application/controllers/Financialreport.php on line 211
+[27-Aug-2022 07:15:38 UTC] PHP Fatal error:  Call to undefined method Financialreport::bankstat_openingbanlance_invoice() in /home/eshiro/public_html/application/controllers/Financialreport.php on line 209
+[27-Aug-2022 07:15:51 UTC] PHP Fatal error:  Call to undefined method Financialreport::bankstat_openingbanlance_invoice() in /home/eshiro/public_html/application/controllers/Financialreport.php on line 209
+[27-Aug-2022 07:18:40 UTC] PHP Fatal error:  Class 'Reports' not found in /home/eshiro/public_html/application/controllers/Financialreport.php on line 5
+[01-Sep-2022 11:49:23 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/eshiro/public_html/application/controllers/Financialreport.php on line 1137
+[05-Sep-2022 07:43:46 UTC] PHP Fatal error:  Call to undefined method Reports_model::getEndData() in /home/eshiro/public_html/application/models/Reports_model.php on line 86
+[05-Sep-2022 07:55:11 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/eshiro/public_html/application/controllers/Financialreport.php on line 1905
+[05-Sep-2022 07:55:55 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/eshiro/public_html/application/controllers/Financialreport.php on line 1905
+[05-Sep-2022 07:56:28 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/eshiro/public_html/application/controllers/Financialreport.php on line 1905
+[05-Sep-2022 09:14:46 UTC] PHP Fatal error:  Maximum execution time of 500 seconds exceeded in /home/eshiro/public_html/system/database/drivers/mysqli/mysqli_result.php on line 183
+[05-Sep-2022 09:57:25 UTC] PHP Parse error:  syntax error, unexpected ''A' (T_ENCAPSED_AND_WHITESPACE) in /home/eshiro/public_html/application/controllers/Financialreport.php on line 1849
+[05-Sep-2022 10:39:53 UTC] PHP Parse error:  syntax error, unexpected ''financial_repor' (T_ENCAPSED_AND_WHITESPACE) in /home/eshiro/public_html/application/controllers/Financialreport.php on line 1304
+[08-Sep-2022 07:48:45 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/eshiro/public_html/application/controllers/Financialreport.php on line 724
+[08-Sep-2022 08:15:30 UTC] PHP Fatal error:  Call to undefined method mPDF::set_output() in /home/eshiro/public_html/application/views/financial_position.php on line 49
+[08-Sep-2022 08:15:32 UTC] PHP Fatal error:  Call to undefined method mPDF::set_output() in /home/eshiro/public_html/application/views/financial_position.php on line 49
+[08-Sep-2022 08:15:37 UTC] PHP Fatal error:  Call to undefined method mPDF::set_output() in /home/eshiro/public_html/application/views/financial_position.php on line 49
+[08-Sep-2022 08:15:43 UTC] PHP Fatal error:  Call to undefined method mPDF::set_output() in /home/eshiro/public_html/application/views/financial_position.php on line 49
+[08-Sep-2022 08:16:16 UTC] PHP Fatal error:  Call to undefined method mPDF::set_output() in /home/eshiro/public_html/application/views/financial_position.php on line 49
+[08-Sep-2022 08:16:19 UTC] PHP Fatal error:  Call to undefined method mPDF::set_output() in /home/eshiro/public_html/application/views/financial_position.php on line 49
+[08-Sep-2022 08:16:41 UTC] PHP Fatal error:  Call to undefined method mPDF::set_output() in /home/eshiro/public_html/application/views/financial_position.php on line 49
+[08-Sep-2022 08:53:03 UTC] PHP Fatal error:  Maximum execution time of 500 seconds exceeded in /home/eshiro/public_html/application/third_party/mpdf/mpdf.php on line 4403
+[09-Sep-2022 11:14:25 UTC] PHP Fatal error:  Call to undefined method Reports::financial_report_pdf() in /home/eshiro/public_html/application/controllers/Reports.php on line 8116
+[09-Sep-2022 11:38:59 UTC] PHP Fatal error:  Call to undefined method Pdfcontrol::Cell() in /home/eshiro/public_html/application/controllers/Pdfcontrol.php on line 106
+[09-Sep-2022 11:39:17 UTC] PHP Fatal error:  Call to undefined method Pdfcontrol::Cell() in /home/eshiro/public_html/application/controllers/Pdfcontrol.php on line 106
+[09-Sep-2022 11:46:34 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/eshiro/public_html/application/controllers/Pdfcontrol.php on line 106
+[09-Sep-2022 12:31:59 UTC] PHP Fatal error:  Call to undefined method Client_model::getDetailsRow() in /home/eshiro/public_html/application/controllers/Financialreport.php on line 2440
+[09-Sep-2022 12:32:12 UTC] PHP Fatal error:  Call to undefined method Client_model::getDetailsRow() in /home/eshiro/public_html/application/controllers/Financialreport.php on line 2440
+[09-Sep-2022 12:33:42 UTC] PHP Fatal error:  Call to undefined method Client_model::getDetailsRow() in /home/eshiro/public_html/application/controllers/Financialreport.php on line 2440
+[09-Sep-2022 12:33:59 UTC] PHP Fatal error:  Call to undefined method Client_model::getDetails() in /home/eshiro/public_html/application/controllers/Financialreport.php on line 2440
+[09-Sep-2022 15:57:48 UTC] PHP Fatal error:  Call to undefined function SetHTMLHeader() in /home/eshiro/public_html/application/controllers/Pdfcontrol.php on line 120
+[09-Sep-2022 15:57:51 UTC] PHP Fatal error:  Call to undefined function SetHTMLHeader() in /home/eshiro/public_html/application/controllers/Pdfcontrol.php on line 120
+[10-Sep-2022 08:41:25 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/eshiro/public_html/application/controllers/Financialreport.php on line 1908
+[10-Sep-2022 09:25:14 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/eshiro/public_html/application/controllers/Financialreport.php on line 2474
+[10-Sep-2022 09:25:25 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/eshiro/public_html/application/controllers/Financialreport.php on line 2475
+[10-Sep-2022 09:25:27 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/eshiro/public_html/application/controllers/Financialreport.php on line 2475
+[10-Sep-2022 09:25:38 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/eshiro/public_html/application/controllers/Financialreport.php on line 2475
+[10-Sep-2022 09:47:03 UTC] PHP Fatal error:  Call to a member function AddPage() on null in /home/eshiro/public_html/application/controllers/Financialreport.php on line 218
+[10-Sep-2022 11:48:58 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/eshiro/public_html/application/controllers/Financialreport.php on line 1342
+[10-Sep-2022 15:58:53 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/eshiro/public_html/application/controllers/Pdfcontrol.php on line 99
+[10-Sep-2022 15:59:05 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/eshiro/public_html/application/controllers/Pdfcontrol.php on line 99
+[10-Sep-2022 15:59:15 UTC] PHP Fatal error:  Call to undefined function curl_get_file_contents() in /home/eshiro/public_html/application/controllers/Pdfcontrol.php on line 99
+[12-Sep-2022 08:57:09 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/eshiro/public_html/application/controllers/Pdfcontrol.php on line 152
+[14-Sep-2022 10:57:27 UTC] PHP Fatal error:  Call to undefined function curl_get_file_contents() in /home/eshiro/public_html/application/controllers/Pdfcontrol.php on line 121
+[15-Sep-2022 05:57:43 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/eshiro/public_html/application/controllers/Financialreport.php on line 457
+[15-Sep-2022 05:58:01 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/eshiro/public_html/application/controllers/Financialreport.php on line 1935
+[16-Sep-2022 08:59:25 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/eshiro/public_html/application/controllers/Financialreport.php on line 2561
+[16-Sep-2022 09:05:53 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/eshiro/public_html/application/controllers/Pdfcontrol.php on line 118
+[16-Sep-2022 09:05:55 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/eshiro/public_html/application/controllers/Pdfcontrol.php on line 118
+[16-Sep-2022 09:06:06 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/eshiro/public_html/application/controllers/Pdfcontrol.php on line 118
+[16-Sep-2022 09:06:09 UTC] PHP Fatal error:  Class 'Mpdf\HTMLParserMode' not found in /home/eshiro/public_html/application/controllers/Pdfcontrol.php on line 115
+[16-Sep-2022 09:07:11 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/eshiro/public_html/application/controllers/pdf/autoload.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/eshiro/public_html/application/controllers/Pdfcontrol.php on line 109
+[16-Sep-2022 09:14:28 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/eshiro/public_html/application/controllers/pdf/autoload.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/eshiro/public_html/application/controllers/Pdfcontrol.php on line 109
+[16-Sep-2022 09:14:44 UTC] PHP Fatal error:  Class 'Mpdf\HTMLParserMode' not found in /home/eshiro/public_html/application/controllers/Pdfcontrol.php on line 117
+[16-Sep-2022 09:16:22 UTC] PHP Fatal error:  Class 'm_pdf\HTMLParserMode' not found in /home/eshiro/public_html/application/controllers/Pdfcontrol.php on line 117
+[16-Sep-2022 09:16:36 UTC] PHP Fatal error:  Class 'pdf\HTMLParserMode' not found in /home/eshiro/public_html/application/controllers/Pdfcontrol.php on line 117
+[16-Sep-2022 09:18:48 UTC] PHP Fatal error:  Class 'Mpdf\Pdf\HTMLParserMode' not found in /home/eshiro/public_html/application/controllers/Pdfcontrol.php on line 117
+[16-Sep-2022 09:18:51 UTC] PHP Fatal error:  Class 'Mpdf\Pdf\HTMLParserMode' not found in /home/eshiro/public_html/application/controllers/Pdfcontrol.php on line 117
+[16-Sep-2022 09:19:02 UTC] PHP Fatal error:  Class 'Mpdf\pdf\HTMLParserMode' not found in /home/eshiro/public_html/application/controllers/Pdfcontrol.php on line 117
+[16-Sep-2022 09:19:04 UTC] PHP Fatal error:  Class 'Mpdf\pdf\HTMLParserMode' not found in /home/eshiro/public_html/application/controllers/Pdfcontrol.php on line 117
+[16-Sep-2022 09:20:21 UTC] PHP Fatal error:  Class 'Mpdf\Mpdf\HTMLParserMode' not found in /home/eshiro/public_html/application/controllers/Pdfcontrol.php on line 117
+[16-Sep-2022 09:20:23 UTC] PHP Fatal error:  Class 'Mpdf\Mpdf\HTMLParserMode' not found in /home/eshiro/public_html/application/controllers/Pdfcontrol.php on line 117
+[16-Sep-2022 09:21:58 UTC] PHP Fatal error:  Class 'Mpdf\Mpdf\HTMLParserMode' not found in /home/eshiro/public_html/application/controllers/Pdfcontrol.php on line 117
+[16-Sep-2022 09:22:26 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/eshiro/public_html/application/third_party/mpdf/collations/3.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/eshiro/public_html/application/third_party/mpdf/mpdf.php on line 29249
+[16-Sep-2022 09:24:38 UTC] PHP Fatal error:  Class 'mpdf\HTMLParserMode' not found in /home/eshiro/public_html/application/controllers/Pdfcontrol.php on line 117
+[16-Sep-2022 09:26:32 UTC] PHP Fatal error:  Class 'mpdf\HTMLParserMode' not found in /home/eshiro/public_html/application/controllers/Pdfcontrol.php on line 117
+[16-Sep-2022 09:26:35 UTC] PHP Fatal error:  Class 'mpdf\HTMLParserMode' not found in /home/eshiro/public_html/application/controllers/Pdfcontrol.php on line 117
+[16-Sep-2022 09:26:40 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/eshiro/public_html/application/controllers/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/eshiro/public_html/application/controllers/Pdfcontrol.php on line 115
+[16-Sep-2022 09:28:27 UTC] PHP Fatal error:  Class 'mpdf\Mpdf\HTMLParserMode' not found in /home/eshiro/public_html/application/controllers/Pdfcontrol.php on line 118
+[16-Sep-2022 10:05:42 UTC] PHP Parse error:  syntax error, unexpected ''Text of document...' (T_ENCAPSED_AND_WHITESPACE) in /home/eshiro/public_html/application/controllers/Pdfcontrol.php on line 390
+[16-Sep-2022 10:05:42 UTC] PHP Parse error:  syntax error, unexpected ''Text of document...' (T_ENCAPSED_AND_WHITESPACE) in /home/eshiro/public_html/application/controllers/Pdfcontrol.php on line 390
+[16-Sep-2022 10:05:42 UTC] PHP Parse error:  syntax error, unexpected ''Text of document...' (T_ENCAPSED_AND_WHITESPACE) in /home/eshiro/public_html/application/controllers/Pdfcontrol.php on line 390
+[16-Sep-2022 10:05:43 UTC] PHP Parse error:  syntax error, unexpected ''Text of document...' (T_ENCAPSED_AND_WHITESPACE) in /home/eshiro/public_html/application/controllers/Pdfcontrol.php on line 390
+[16-Sep-2022 10:05:43 UTC] PHP Parse error:  syntax error, unexpected ''Text of document...' (T_ENCAPSED_AND_WHITESPACE) in /home/eshiro/public_html/application/controllers/Pdfcontrol.php on line 390
+[16-Sep-2022 10:05:43 UTC] PHP Parse error:  syntax error, unexpected ''Text of document...' (T_ENCAPSED_AND_WHITESPACE) in /home/eshiro/public_html/application/controllers/Pdfcontrol.php on line 390
+[19-Sep-2022 06:34:22 UTC] PHP Fatal error:  Class 'fpdi_pdf_parser' not found in /home/eshiro/public_html/application/third_party/mpdf/mpdf.php on line 32606
+[19-Sep-2022 06:37:24 UTC] PHP Fatal error:  Class 'fpdi_pdf_parser' not found in /home/eshiro/public_html/application/third_party/mpdf/mpdf.php on line 32606
+[19-Sep-2022 07:05:13 UTC] PHP Fatal error:  Call to a member function AddPage() on null in /home/eshiro/public_html/application/controllers/Financialreport.php on line 373
+[25-Sep-2022 08:02:56 UTC] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/eshiro/public_html/application/controllers/Financialreport.php on line 800
+[26-Sep-2022 09:47:19 UTC] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH), expecting function (T_FUNCTION) in /home/eshiro/public_html/application/controllers/Financialreport.php on line 1434
+[26-Sep-2022 09:48:29 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting function (T_FUNCTION) in /home/eshiro/public_html/application/controllers/Financialreport.php on line 1434
+[28-Sep-2022 05:19:10 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/eshiro/public_html/application/controllers/Financialreport.php on line 3300
+[28-Sep-2022 05:19:10 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/eshiro/public_html/application/controllers/Financialreport.php on line 3300
+[28-Sep-2022 05:19:10 UTC] PHP Warning:  Unterminated comment starting line 3920 in /home/eshiro/public_html/application/controllers/Financialreport.php on line 3920
+[28-Sep-2022 05:19:10 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/eshiro/public_html/application/controllers/Financialreport.php on line 3927
+[29-Sep-2022 08:08:09 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/eshiro/public_html/application/controllers/Financialreport.php on line 404
+[29-Sep-2022 08:08:12 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/eshiro/public_html/application/controllers/Financialreport.php on line 404
+[29-Sep-2022 08:08:39 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/eshiro/public_html/application/controllers/Financialreport.php on line 926
+[29-Sep-2022 08:09:20 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/eshiro/public_html/application/controllers/Financialreport.php on line 3847
+[29-Sep-2022 08:34:38 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/eshiro/public_html/application/controllers/Financialreport.php on line 981
+[29-Sep-2022 10:31:38 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/eshiro/public_html/application/controllers/Financialreport.php on line 4293
+[29-Sep-2022 16:41:08 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/eshiro/public_html/application/controllers/Financialreport.php on line 4293
+[29-Sep-2022 16:41:27 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/eshiro/public_html/application/controllers/Financialreport.php on line 4293
+[29-Sep-2022 16:41:29 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/eshiro/public_html/application/controllers/Financialreport.php on line 4293
+[29-Sep-2022 16:41:30 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/eshiro/public_html/application/controllers/Financialreport.php on line 4293
+[29-Sep-2022 16:43:21 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/eshiro/public_html/application/controllers/Financialreport.php on line 4293
+[29-Sep-2022 16:43:26 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/eshiro/public_html/application/controllers/Financialreport.php on line 4293
+[29-Sep-2022 16:43:56 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/eshiro/public_html/application/controllers/Financialreport.php on line 4293
+[29-Sep-2022 21:50:59 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/eshiro/public_html/application/controllers/Financialreport.php on line 4293
+[29-Sep-2022 21:51:02 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/eshiro/public_html/application/controllers/Financialreport.php on line 4293
+[29-Sep-2022 21:51:13 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/eshiro/public_html/application/controllers/Financialreport.php on line 4293
+[29-Sep-2022 22:23:35 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/eshiro/public_html/application/controllers/Financialreport.php on line 4293
+[29-Sep-2022 22:23:36 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/eshiro/public_html/application/controllers/Financialreport.php on line 4293
+[29-Sep-2022 22:23:44 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/eshiro/public_html/application/controllers/Financialreport.php on line 4293
+[29-Sep-2022 22:24:29 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/eshiro/public_html/application/controllers/Financialreport.php on line 4293
+[29-Sep-2022 22:24:33 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/eshiro/public_html/application/controllers/Financialreport.php on line 4293
+[29-Sep-2022 22:24:40 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/eshiro/public_html/application/controllers/Financialreport.php on line 4293
+[29-Sep-2022 22:24:44 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/eshiro/public_html/application/controllers/Financialreport.php on line 4293
+[29-Sep-2022 22:24:46 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/eshiro/public_html/application/controllers/Financialreport.php on line 4293
+[29-Sep-2022 22:24:53 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/eshiro/public_html/application/controllers/Financialreport.php on line 4293
+[29-Sep-2022 22:26:44 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/eshiro/public_html/application/controllers/Financialreport.php on line 4293
+[29-Sep-2022 23:41:10 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/eshiro/public_html/application/controllers/Financialreport.php on line 4293
+[29-Sep-2022 23:41:13 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/eshiro/public_html/application/controllers/Financialreport.php on line 4293
+[29-Sep-2022 23:47:30 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/eshiro/public_html/application/controllers/Financialreport.php on line 4293
+[29-Sep-2022 23:47:37 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/eshiro/public_html/application/controllers/Financialreport.php on line 4293
+[30-Sep-2022 07:08:48 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/eshiro/public_html/application/controllers/Financialreport.php on line 4293
+[30-Sep-2022 07:21:29 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/eshiro/public_html/application/controllers/Financialreport.php on line 4293
+[30-Sep-2022 08:12:47 UTC] PHP Parse error:  syntax error, unexpected '$issued_capital' (T_VARIABLE) in /home/eshiro/public_html/application/controllers/Financialreport.php on line 704
+[30-Sep-2022 08:12:47 UTC] PHP Parse error:  syntax error, unexpected '$issued_capital' (T_VARIABLE) in /home/eshiro/public_html/application/controllers/Financialreport.php on line 704
+[30-Sep-2022 08:12:49 UTC] PHP Parse error:  syntax error, unexpected '$issued_capital' (T_VARIABLE) in /home/eshiro/public_html/application/controllers/Financialreport.php on line 704
+[30-Sep-2022 08:13:03 UTC] PHP Parse error:  syntax error, unexpected '$issued_capital' (T_VARIABLE) in /home/eshiro/public_html/application/controllers/Financialreport.php on line 704
+[01-Oct-2022 08:39:00 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/eshiro/public_html/application/controllers/Financialreport.php on line 3061
+[01-Oct-2022 09:49:17 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/eshiro/public_html/application/controllers/Financialreport.php on line 3375
+[03-Oct-2022 09:23:37 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/eshiro/public_html/application/controllers/Financialreport.php on line 3952
+[04-Oct-2022 08:12:47 UTC] PHP Fatal error:  Call to a member function getDetails() on null in /home/eshiro/public_html/application/controllers/Client.php on line 546
+[06-Oct-2022 07:59:05 UTC] PHP Fatal error:  Call to a member function getDetails() on null in /home/eshiro/public_html/application/views/template/admin/sidebar.php on line 3
+[06-Oct-2022 08:00:04 UTC] PHP Fatal error:  Call to a member function getDetails() on null in /home/eshiro/public_html/application/views/template/admin/sidebar.php on line 4
+[06-Oct-2022 08:46:15 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/eshiro/public_html/application/controllers/Banktransactions.php on line 37
+[07-Oct-2022 08:57:17 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/eshiro/public_html/application/controllers/Financialreport.php on line 1783
+[07-Oct-2022 09:21:35 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/eshiro/public_html/application/controllers/Financialreport.php on line 2781
+[07-Oct-2022 14:42:23 UTC] PHP Parse error:  syntax error, unexpected '' in /home/eshiro/public_html/application/controllers/Financialreport.php on line 3101
+[08-Oct-2022 08:01:12 UTC] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home/eshiro/public_html/application/config/constants.php on line 121
+[08-Oct-2022 08:01:53 UTC] PHP Warning:  Constants may only evaluate to scalar values in /home/eshiro/public_html/application/config/constants.php on line 121
+[08-Oct-2022 08:09:43 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/eshiro/public_html/application/config/constants.php on line 123
+[08-Oct-2022 08:10:16 UTC] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/eshiro/public_html/application/config/constants.php on line 123
+[12-Oct-2022 09:05:48 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/eshiro/public_html/application/controllers/Reports.php on line 2900
+[12-Oct-2022 12:50:41 UTC] PHP Fatal error:  Class 'ZIPARCHIVE' not found in /home/eshiro/public_html/application/third_party/PHPExcel/Classes/PHPExcel/Reader/Excel2007.php on line 315
+[12-Oct-2022 12:54:18 UTC] PHP Fatal error:  Class 'ZIPARCHIVE' not found in /home/eshiro/public_html/application/third_party/PHPExcel/Classes/PHPExcel/Reader/Excel2007.php on line 315
+[13-Oct-2022 09:00:38 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/eshiro/public_html/application/controllers/Reports.php on line 8683
+[13-Oct-2022 09:10:28 UTC] PHP Parse error:  syntax error, unexpected '.7' (T_DNUMBER) in /home/eshiro/public_html/application/controllers/Reports.php on line 8685
+[13-Oct-2022 09:59:42 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/eshiro/public_html/application/controllers/Banktransactions.php on line 1316
+[13-Oct-2022 09:59:48 UTC] PHP Fatal error:  Cannot redeclare Banktransactions::ajax_financial_statement_pdf_bankstat() in /home/eshiro/public_html/application/controllers/Banktransactions.php on line 6932
+[14-Oct-2022 08:09:42 UTC] PHP Parse error:  syntax error, unexpected ''lib/b' (T_ENCAPSED_AND_WHITESPACE), expecting ')' in /home/eshiro/public_html/application/controllers/Reports.php on line 869
+[14-Oct-2022 08:10:08 UTC] PHP Parse error:  syntax error, unexpected ''lib/b' (T_ENCAPSED_AND_WHITESPACE), expecting ')' in /home/eshiro/public_html/application/controllers/Reports.php on line 869
+[17-Oct-2022 08:48:41 UTC] PHP Fatal error:  Call to undefined method Reports_model::getEndData() in /home/eshiro/public_html/application/models/Reports_model.php on line 86
+[17-Oct-2022 08:49:28 UTC] PHP Fatal error:  Call to undefined method Reports_model::getEndData() in /home/eshiro/public_html/application/models/Reports_model.php on line 86
+[17-Oct-2022 08:51:09 UTC] PHP Fatal error:  Call to undefined method Reports_model::getEndData() in /home/eshiro/public_html/application/models/Reports_model.php on line 86
+[17-Oct-2022 08:51:37 UTC] PHP Fatal error:  Call to undefined method Reports_model::getEndData() in /home/eshiro/public_html/application/models/Reports_model.php on line 86
+[19-Oct-2022 09:05:08 UTC] PHP Warning:  Unterminated comment starting line 9067 in /home/eshiro/public_html/application/controllers/Reports.php on line 9067
+[19-Oct-2022 09:05:08 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/eshiro/public_html/application/controllers/Reports.php on line 9067
+[19-Oct-2022 09:05:13 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/eshiro/public_html/application/controllers/Reports.php on line 9235
+[19-Oct-2022 09:05:15 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/eshiro/public_html/application/controllers/Reports.php on line 9235
+[19-Oct-2022 09:06:10 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/eshiro/public_html/application/controllers/Reports.php on line 9235
+[19-Oct-2022 09:06:48 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/eshiro/public_html/application/controllers/Reports.php on line 9235
+[19-Oct-2022 09:10:06 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/eshiro/public_html/application/controllers/Reports.php on line 9238
+[20-Oct-2022 08:39:13 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/eshiro/public_html/application/controllers/Banktransactions.php on line 5515
+[20-Oct-2022 08:40:55 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/eshiro/public_html/application/controllers/Banktransactions.php on line 4697
+[20-Oct-2022 08:42:04 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/eshiro/public_html/application/controllers/Banktransactions.php on line 5515
+[20-Oct-2022 09:20:26 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/eshiro/public_html/application/controllers/Reports.php on line 8123
+[20-Oct-2022 09:20:27 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/eshiro/public_html/application/controllers/Reports.php on line 8123
+[20-Oct-2022 10:23:52 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/eshiro/public_html/application/controllers/Banktransactions.php on line 7421
+[20-Oct-2022 10:24:54 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/eshiro/public_html/application/controllers/Banktransactions.php on line 7421
+[26-Oct-2022 08:32:54 UTC] PHP Parse error:  syntax error, unexpected '$item_total_cost' (T_VARIABLE) in /home/eshiro/public_html/application/controllers/Reports.php on line 9255
+[26-Oct-2022 08:33:38 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/eshiro/public_html/application/controllers/Reports.php on line 9269
+[26-Oct-2022 09:11:06 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/eshiro/public_html/application/controllers/Reports.php on line 9236
+[26-Oct-2022 09:14:12 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/eshiro/public_html/application/controllers/Reports.php on line 9236
+[26-Oct-2022 09:59:01 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/eshiro/public_html/application/controllers/Reports.php on line 9236
+[02-Nov-2022 10:24:43 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/eshiro/public_html/application/controllers/Financialreport.php on line 1050
+[02-Nov-2022 10:24:51 UTC] PHP Parse error:  syntax error, unexpected ''repo' (T_ENCAPSED_AND_WHITESPACE), expecting ')' in /home/eshiro/public_html/application/controllers/Financialreport.php on line 1487
+[03-Nov-2022 09:01:36 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/eshiro/public_html/application/controllers/Financialreport.php on line 4795
+[03-Nov-2022 09:02:25 UTC] PHP Parse error:  syntax error, unexpected '$current_menu' (T_VARIABLE) in /home/eshiro/public_html/application/views/template/admin/sidebar.php on line 388
+[03-Nov-2022 09:02:29 UTC] PHP Parse error:  syntax error, unexpected '$current_menu' (T_VARIABLE) in /home/eshiro/public_html/application/views/template/admin/sidebar.php on line 388
+[03-Nov-2022 09:03:18 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/eshiro/public_html/application/views/template/admin/sidebar.php on line 399
+[03-Nov-2022 10:20:45 UTC] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH), expecting function (T_FUNCTION) in /home/eshiro/public_html/application/controllers/Financialreport.php on line 1974
+[03-Nov-2022 10:26:21 UTC] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH), expecting function (T_FUNCTION) in /home/eshiro/public_html/application/controllers/Financialreport.php on line 1976
+[04-Nov-2022 08:04:42 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/eshiro/public_html/application/controllers/Reports.php on line 7654
+[09-Nov-2022 08:17:04 UTC] PHP Parse error:  syntax error, unexpected '$subcat_id_ar' (T_VARIABLE) in /home/eshiro/public_html/application/controllers/Financialreport.php on line 3043
+[09-Nov-2022 08:40:29 UTC] PHP Parse error:  syntax error, unexpected '$unallocated_difference' (T_VARIABLE), expecting function (T_FUNCTION) in /home/eshiro/public_html/application/controllers/Financialreport.php on line 3671
+[09-Nov-2022 10:14:06 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/eshiro/public_html/application/controllers/Financialreport.php on line 7030
+[10-Nov-2022 08:47:15 UTC] PHP Parse error:  syntax error, unexpected '0' (T_LNUMBER) in /home/eshiro/public_html/application/controllers/Financialreport.php on line 5286
+[14-Nov-2022 09:59:51 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or '$' in /home/eshiro/public_html/application/controllers/Reports.php on line 5749
+[14-Nov-2022 10:28:43 UTC] PHP Fatal error:  Cannot unset string offsets in /home/eshiro/public_html/application/controllers/Financialreport.php on line 3491
+[14-Nov-2022 10:28:48 UTC] PHP Fatal error:  Cannot unset string offsets in /home/eshiro/public_html/application/controllers/Financialreport.php on line 3491
+[14-Nov-2022 10:29:08 UTC] PHP Fatal error:  Cannot unset string offsets in /home/eshiro/public_html/application/controllers/Financialreport.php on line 3491
+[14-Nov-2022 10:31:12 UTC] PHP Parse error:  syntax error, unexpected 'unset' (T_UNSET) in /home/eshiro/public_html/application/controllers/Financialreport.php on line 3491
+[14-Nov-2022 10:32:01 UTC] PHP Parse error:  syntax error, unexpected 'unset' (T_UNSET) in /home/eshiro/public_html/application/controllers/Financialreport.php on line 3491
+[14-Nov-2022 10:32:45 UTC] PHP Fatal error:  Cannot unset string offsets in /home/eshiro/public_html/application/controllers/Financialreport.php on line 3572
+[14-Nov-2022 10:37:53 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/eshiro/public_html/application/models/Reports_model.php on line 281
+[15-Nov-2022 09:01:34 UTC] PHP Parse error:  syntax error, unexpected '$client_id' (T_VARIABLE), expecting ',' or ';' in /home/eshiro/public_html/application/controllers/Financialreport.php on line 7308
+[15-Nov-2022 09:01:39 UTC] PHP Parse error:  syntax error, unexpected '$client_id' (T_VARIABLE), expecting ',' or ';' in /home/eshiro/public_html/application/controllers/Financialreport.php on line 7308
+[17-Nov-2022 10:52:07 UTC] PHP Parse error:  syntax error, unexpected '$current_date' (T_VARIABLE) in /home/eshiro/public_html/application/controllers/Reports.php on line 9644
+[17-Nov-2022 10:52:23 UTC] PHP Parse error:  syntax error, unexpected ''lib/bootstrap/js/' (T_ENCAPSED_AND_WHITESPACE), expecting ')' in /home/eshiro/public_html/application/controllers/Reports.php on line 6434
+[17-Nov-2022 10:58:17 UTC] PHP Fatal error:  Call to undefined function dateDiffInDays() in /home/eshiro/public_html/application/controllers/Reports.php on line 9655
+[22-Nov-2022 09:54:55 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ',' or ';' in /home/eshiro/public_html/application/controllers/Banktransactions.php on line 1186
+[22-Nov-2022 09:54:56 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ',' or ';' in /home/eshiro/public_html/application/controllers/Banktransactions.php on line 1186
+[22-Nov-2022 11:19:01 UTC] PHP Fatal error:  Class 'ZIPARCHIVE' not found in /home/eshiro/public_html/application/third_party/PHPExcel/Classes/PHPExcel/Reader/Excel2007.php on line 315
+[22-Nov-2022 11:20:11 UTC] PHP Fatal error:  Class 'ZIPARCHIVE' not found in /home/eshiro/public_html/application/third_party/PHPExcel/Classes/PHPExcel/Reader/Excel2007.php on line 315
+[22-Nov-2022 11:21:32 UTC] PHP Fatal error:  Call to undefined method Reports_model::InsertTempCash() in /home/eshiro/public_html/application/controllers/Banktransactions.php on line 1025
+[22-Nov-2022 11:23:50 UTC] PHP Fatal error:  Call to undefined method Reports_model::InsertTempCash() in /home/eshiro/public_html/application/controllers/Banktransactions.php on line 1025
+[22-Nov-2022 11:24:09 UTC] PHP Fatal error:  Call to undefined method Reports_model::InsertTempCash() in /home/eshiro/public_html/application/controllers/Banktransactions.php on line 1025
+[22-Nov-2022 11:27:16 UTC] PHP Fatal error:  Class 'ZIPARCHIVE' not found in /home/eshiro/public_html/application/third_party/PHPExcel/Classes/PHPExcel/Reader/Excel2007.php on line 315
+[22-Nov-2022 11:36:15 UTC] PHP Fatal error:  Class 'ZIPARCHIVE' not found in /home/eshiro/public_html/application/third_party/PHPExcel/Classes/PHPExcel/Reader/Excel2007.php on line 315
+[22-Nov-2022 11:38:55 UTC] PHP Fatal error:  Class 'ZIPARCHIVE' not found in /home/eshiro/public_html/application/third_party/PHPExcel/Classes/PHPExcel/Reader/Excel2007.php on line 315
+[22-Nov-2022 11:39:09 UTC] PHP Fatal error:  Class 'ZIPARCHIVE' not found in /home/eshiro/public_html/application/third_party/PHPExcel/Classes/PHPExcel/Reader/Excel2007.php on line 315
+[22-Nov-2022 23:21:32 UTC] PHP Fatal error:  Class 'ZIPARCHIVE' not found in /home/eshiro/public_html/application/third_party/PHPExcel/Classes/PHPExcel/Reader/Excel2007.php on line 315
+[22-Nov-2022 23:29:10 UTC] PHP Fatal error:  Class 'ZIPARCHIVE' not found in /home/eshiro/public_html/application/third_party/PHPExcel/Classes/PHPExcel/Reader/Excel2007.php on line 315
+[22-Nov-2022 23:29:20 UTC] PHP Fatal error:  Class 'ZIPARCHIVE' not found in /home/eshiro/public_html/application/third_party/PHPExcel/Classes/PHPExcel/Reader/Excel2007.php on line 315
+[24-Nov-2022 08:16:39 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/eshiro/public_html/application/controllers/Financialreport.php on line 7259
+[24-Nov-2022 08:16:42 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/eshiro/public_html/application/controllers/Financialreport.php on line 7259
+[24-Nov-2022 08:47:00 UTC] PHP Parse error:  syntax error, unexpected 'previous_asset' (T_STRING), expecting function (T_FUNCTION) in /home/eshiro/public_html/application/controllers/Financialreport.php on line 7331
+[24-Nov-2022 08:47:05 UTC] PHP Parse error:  syntax error, unexpected 'previous_asset' (T_STRING), expecting function (T_FUNCTION) in /home/eshiro/public_html/application/controllers/Financialreport.php on line 7331
+[08-Dec-2022 10:25:06 UTC] PHP Fatal error:  Call to a member function WriteHTML() on null in /home/eshiro/public_html/application/controllers/Financialreport.php on line 643
+[08-Dec-2022 10:32:14 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION) in /home/eshiro/public_html/application/controllers/Financialreport.php on line 661
+[08-Dec-2022 10:41:25 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/eshiro/public_html/application/controllers/Financialreport.php on line 647
+[21-Dec-2022 08:18:44 UTC] PHP Fatal error:  Call to undefined method Banktransactions::bankstat_openingbanlance_single() in /home/eshiro/public_html/application/controllers/Banktransactions.php on line 2248
+[21-Dec-2022 08:24:00 UTC] PHP Fatal error:  Call to undefined method Reports_model::total_dr_new_costid() in /home/eshiro/public_html/application/controllers/Banktransactions.php on line 1834
+[21-Dec-2022 08:26:58 UTC] PHP Fatal error:  Call to undefined method Reports_model::total_dr_new_costid() in /home/eshiro/public_html/application/controllers/Banktransactions.php on line 1834
+[28-Dec-2022 06:09:20 UTC] PHP Fatal error:  Call to undefined method Reports_model::getEndData() in /home/eshiro/public_html/application/models/Reports_model.php on line 86
+[09-Feb-2023 11:45:04 UTC] PHP Fatal error:  Class 'ZIPARCHIVE' not found in /home/eshiro/public_html/application/third_party/PHPExcel/Classes/PHPExcel/Reader/Excel2007.php on line 315
+[09-Feb-2023 12:07:01 UTC] PHP Fatal error:  Class 'ZIPARCHIVE' not found in /home/eshiro/public_html/application/third_party/PHPExcel/Classes/PHPExcel/Reader/Excel2007.php on line 315
+[09-Feb-2023 12:40:44 UTC] PHP Fatal error:  Class 'ZIPARCHIVE' not found in /home/eshiro/public_html/application/third_party/PHPExcel/Classes/PHPExcel/Reader/Excel2007.php on line 315
+[09-Feb-2023 12:41:33 UTC] PHP Fatal error:  Class 'ZIPARCHIVE' not found in /home/eshiro/public_html/application/third_party/PHPExcel/Classes/PHPExcel/Reader/Excel2007.php on line 315
+[10-Feb-2023 00:12:17 UTC] PHP Fatal error:  Class 'ZIPARCHIVE' not found in /home/eshiro/public_html/application/third_party/PHPExcel/Classes/PHPExcel/Reader/Excel2007.php on line 315
+[10-Feb-2023 00:12:23 UTC] PHP Fatal error:  Class 'ZIPARCHIVE' not found in /home/eshiro/public_html/application/third_party/PHPExcel/Classes/PHPExcel/Reader/Excel2007.php on line 315
+[10-Feb-2023 00:13:21 UTC] PHP Fatal error:  Class 'ZIPARCHIVE' not found in /home/eshiro/public_html/application/third_party/PHPExcel/Classes/PHPExcel/Reader/Excel2007.php on line 315
+[10-Feb-2023 00:13:26 UTC] PHP Fatal error:  Class 'ZIPARCHIVE' not found in /home/eshiro/public_html/application/third_party/PHPExcel/Classes/PHPExcel/Reader/Excel2007.php on line 315
+[10-Feb-2023 00:14:03 UTC] PHP Fatal error:  Class 'ZIPARCHIVE' not found in /home/eshiro/public_html/application/third_party/PHPExcel/Classes/PHPExcel/Reader/Excel2007.php on line 315
+[10-Feb-2023 00:22:42 UTC] PHP Fatal error:  Class 'ZIPARCHIVE' not found in /home/eshiro/public_html/application/third_party/PHPExcel/Classes/PHPExcel/Reader/Excel2007.php on line 315
+[10-Feb-2023 00:22:55 UTC] PHP Fatal error:  Class 'ZIPARCHIVE' not found in /home/eshiro/public_html/application/third_party/PHPExcel/Classes/PHPExcel/Reader/Excel2007.php on line 315
+[10-Feb-2023 00:36:04 UTC] PHP Fatal error:  Class 'ZIPARCHIVE' not found in /home/eshiro/public_html/application/third_party/PHPExcel/Classes/PHPExcel/Reader/Excel2007.php on line 315
+[10-Feb-2023 00:38:49 UTC] PHP Fatal error:  Class 'ZIPARCHIVE' not found in /home/eshiro/public_html/application/third_party/PHPExcel/Classes/PHPExcel/Reader/Excel2007.php on line 315
+[10-Feb-2023 00:39:05 UTC] PHP Fatal error:  Class 'ZIPARCHIVE' not found in /home/eshiro/public_html/application/third_party/PHPExcel/Classes/PHPExcel/Reader/Excel2007.php on line 315
+[10-Feb-2023 00:44:01 UTC] PHP Fatal error:  Class 'ZIPARCHIVE' not found in /home/eshiro/public_html/application/third_party/PHPExcel/Classes/PHPExcel/Reader/Excel2007.php on line 315
+[10-Feb-2023 00:44:35 UTC] PHP Fatal error:  Class 'ZIPARCHIVE' not found in /home/eshiro/public_html/application/third_party/PHPExcel/Classes/PHPExcel/Reader/Excel2007.php on line 315
+[10-Feb-2023 09:58:17 UTC] PHP Fatal error:  Class 'ZIPARCHIVE' not found in /home/eshiro/public_html/application/third_party/PHPExcel/Classes/PHPExcel/Reader/Excel2007.php on line 315
+[10-Feb-2023 10:16:06 UTC] PHP Fatal error:  Class 'ZIPARCHIVE' not found in /home/eshiro/public_html/application/third_party/PHPExcel/Classes/PHPExcel/Reader/Excel2007.php on line 319
+[12-Feb-2023 01:35:42 UTC] PHP Fatal error:  Class 'ZIPARCHIVE' not found in /home/eshiro/public_html/application/third_party/PHPExcel/Classes/PHPExcel/Reader/Excel2007.php on line 315
+[12-Feb-2023 01:36:11 UTC] PHP Fatal error:  Class 'ZIPARCHIVE' not found in /home/eshiro/public_html/application/third_party/PHPExcel/Classes/PHPExcel/Reader/Excel2007.php on line 315
